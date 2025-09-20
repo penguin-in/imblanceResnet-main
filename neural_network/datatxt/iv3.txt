@@ -1,0 +1,3312 @@
+
+===== Trial 0 开始 =====
+参数: {'alpha': 0.2651356479817433, 'gamma': 2.0354547261354137, 'lr': 0.00035825821167226324}
+lr 0.00035825821167226324 gamma 2.0354547261354137 alpha 0.2651356479817433 TrainAcc2: 98.7469% TrainAcc2num: 394.0000testAcc2: 67.0330% testAcc2num: 61.0000
+Model: resnet101_18ch Best para: 5.5101
+Training time: 494.97s
+Trial 0 结果: 5.51010989010989
+
+===== Trial 1 开始 =====
+参数: {'alpha': 0.3253597415613575, 'gamma': 1.6985272317837268, 'lr': 0.0001777778396360416}
+lr 0.0001777778396360416 gamma 1.6985272317837268 alpha 0.3253597415613575 TrainAcc2: 82.7907% TrainAcc2num: 178.0000testAcc2: 65.5914% testAcc2num: 61.0000
+Model: resnet101_18ch Best para: 4.6308
+Training time: 495.78s
+Trial 1 结果: 4.630752688172044
+
+===== Trial 2 开始 =====
+参数: {'alpha': 0.26953402811189087, 'gamma': 2.372929359071101, 'lr': 0.00011336585890010422}
+lr 0.00011336585890010422 gamma 2.372929359071101 alpha 0.26953402811189087 TrainAcc2: 81.2500% TrainAcc2num: 143.0000testAcc2: 75.4386% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 7.4986
+Training time: 511.84s
+Trial 2 结果: 7.4985964912280725
+
+===== Trial 3 开始 =====
+参数: {'alpha': 0.37856621388712813, 'gamma': 2.201543517473069, 'lr': 0.0008186381053531787}
+Model: resnet101_18ch Best para: 3.9367
+Training time: 488.37s
+Trial 3 结果: 3.936716417910454
+
+===== Trial 4 开始 =====
+参数: {'alpha': 0.34304067147130957, 'gamma': 2.3812758951579713, 'lr': 0.0001226477086864325}
+lr 0.0001226477086864325 gamma 2.3812758951579713 alpha 0.34304067147130957 TrainAcc2: 73.3333% TrainAcc2num: 110.0000testAcc2: 67.1429% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.2971
+Training time: 490.63s
+Trial 4 结果: 4.297142857142856
+
+===== Trial 5 开始 =====
+参数: {'alpha': 0.3495538024518598, 'gamma': 1.6101928057720154, 'lr': 0.0002539154422765057}
+Model: resnet101_18ch Best para: 3.4320
+Training time: 493.16s
+Trial 5 结果: 3.432000000000003
+
+===== Trial 6 开始 =====
+参数: {'alpha': 0.2911462264743478, 'gamma': 1.8789240666826867, 'lr': 0.0002319454605573044}
+lr 0.0002319454605573044 gamma 1.8789240666826867 alpha 0.2911462264743478 TrainAcc2: 96.5699% TrainAcc2num: 366.0000testAcc2: 65.5556% testAcc2num: 59.0000
+Model: resnet101_18ch Best para: 4.4578
+Training time: 493.19s
+Trial 6 结果: 4.45777777777778
+
+===== Trial 7 开始 =====
+参数: {'alpha': 0.37361542313886587, 'gamma': 2.4475950802336435, 'lr': 0.0001608797017512432}
+Model: resnet101_18ch Best para: 2.1371
+Training time: 491.47s
+Trial 7 结果: 2.1371428571428583
+
+===== Trial 8 开始 =====
+参数: {'alpha': 0.3607739103096036, 'gamma': 1.5198163773660684, 'lr': 0.00038392710404884473}
+lr 0.00038392710404884473 gamma 1.5198163773660684 alpha 0.3607739103096036 TrainAcc2: 76.4925% TrainAcc2num: 205.0000testAcc2: 63.2000% testAcc2num: 79.0000
+Model: resnet101_18ch Best para: 4.1080
+Training time: 492.65s
+Trial 8 结果: 4.108000000000004
+
+===== Trial 9 开始 =====
+参数: {'alpha': 0.28768756598403106, 'gamma': 2.0808341769982106, 'lr': 0.0001449996082762368}
+lr 0.0001449996082762368 gamma 2.0808341769982106 alpha 0.28768756598403106 TrainAcc2: 74.0741% TrainAcc2num: 120.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 493.32s
+Trial 9 结果: 4.391578947368421
+
+===== Trial 10 开始 =====
+参数: {'alpha': 0.26085739471180613, 'gamma': 2.4818263960124183, 'lr': 0.00010063091119995666}
+Model: resnet101_18ch Best para: 3.1597
+Training time: 492.59s
+Trial 10 结果: 3.159661016949155
+
+===== Trial 11 开始 =====
+参数: {'alpha': 0.26410530583628195, 'gamma': 2.219371936776284, 'lr': 0.0004419504282665901}
+lr 0.0004419504282665901 gamma 2.219371936776284 alpha 0.26410530583628195 TrainAcc2: 63.6364% TrainAcc2num: 21.0000testAcc2: 67.1429% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.2971
+Training time: 489.36s
+Trial 11 结果: 4.297142857142856
+
+===== Trial 12 开始 =====
+参数: {'alpha': 0.28756586862107886, 'gamma': 1.9115061108002274, 'lr': 0.0007206075423731409}
+lr 0.0007206075423731409 gamma 1.9115061108002274 alpha 0.28756586862107886 TrainAcc2: 81.2500% TrainAcc2num: 65.0000testAcc2: 68.5714% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 5.0743
+Training time: 493.44s
+Trial 12 结果: 5.0742857142857165
+
+===== Trial 13 开始 =====
+参数: {'alpha': 0.30346237755714045, 'gamma': 2.577643940186328, 'lr': 0.0005481577888494199}
+Model: resnet101_18ch Best para: 2.5144
+Training time: 494.93s
+Trial 13 结果: 2.51441176470589
+
+===== Trial 14 开始 =====
+参数: {'alpha': 0.27035132954437996, 'gamma': 2.251489751763031, 'lr': 0.0003174541304735548}
+lr 0.0003174541304735548 gamma 2.251489751763031 alpha 0.27035132954437996 TrainAcc2: 96.9620% TrainAcc2num: 383.0000testAcc2: 62.8571% testAcc2num: 88.0000
+Model: resnet101_18ch Best para: 4.2743
+Training time: 494.13s
+Trial 14 结果: 4.274285714285717
+
+===== Trial 15 开始 =====
+参数: {'alpha': 0.31208564452041176, 'gamma': 2.0488981317867423, 'lr': 0.00022975434800230157}
+Model: resnet101_18ch Best para: 2.3144
+Training time: 489.78s
+Trial 15 结果: 2.3144262295082
+
+===== Trial 16 开始 =====
+参数: {'alpha': 0.2750079530028918, 'gamma': 1.8887941591014252, 'lr': 0.0005098869772705754}
+lr 0.0005098869772705754 gamma 1.8887941591014252 alpha 0.2750079530028918 TrainAcc2: 78.9474% TrainAcc2num: 150.0000testAcc2: 87.5000% testAcc2num: 14.0000
+Model: resnet101_18ch Best para: 4.1300
+Training time: 492.00s
+Trial 16 结果: 4.130000000000001
+
+===== Trial 17 开始 =====
+参数: {'alpha': 0.27882542849524095, 'gamma': 2.0529028979369808, 'lr': 0.0003165429657327506}
+lr 0.0003165429657327506 gamma 2.0529028979369808 alpha 0.27882542849524095 TrainAcc2: 73.3813% TrainAcc2num: 102.0000testAcc2: 70.6897% testAcc2num: 41.0000
+Model: resnet101_18ch Best para: 5.2028
+Training time: 492.41s
+Trial 17 结果: 5.2027586206896554
+
+===== Trial 18 开始 =====
+参数: {'alpha': 0.3257361199925584, 'gamma': 2.3311702804486414, 'lr': 0.0006569423912669201}
+lr 0.0006569423912669201 gamma 2.3311702804486414 alpha 0.3257361199925584 TrainAcc2: 69.2308% TrainAcc2num: 45.0000testAcc2: 67.9612% testAcc2num: 70.0000
+Model: resnet101_18ch Best para: 6.9728
+Training time: 494.79s
+Trial 18 结果: 6.9728155339805875
+
+===== Trial 19 开始 =====
+参数: {'alpha': 0.32525833574261054, 'gamma': 2.33964818498926, 'lr': 0.0006681579349255961}
+lr 0.0006681579349255961 gamma 2.33964818498926 alpha 0.32525833574261054 TrainAcc2: 71.4286% TrainAcc2num: 70.0000testAcc2: 70.8333% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.3633
+Training time: 490.50s
+Trial 19 结果: 4.363333333333336
+
+===== Trial 20 开始 =====
+参数: {'alpha': 0.33737933828446887, 'gamma': 2.5666704657996062, 'lr': 0.0008662098481996677}
+lr 0.0008662098481996677 gamma 2.5666704657996062 alpha 0.33737933828446887 TrainAcc2: 71.7105% TrainAcc2num: 109.0000testAcc2: 67.0588% testAcc2num: 57.0000
+Model: resnet101_18ch Best para: 5.1635
+Training time: 495.53s
+Trial 20 结果: 5.1635294117647055
+
+===== Trial 21 开始 =====
+参数: {'alpha': 0.3035083187349144, 'gamma': 2.2811781797624104, 'lr': 0.0006002471266374321}
+lr 0.0006002471266374321 gamma 2.2811781797624104 alpha 0.3035083187349144 TrainAcc2: 74.2515% TrainAcc2num: 124.0000testAcc2: 67.6471% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 4.4376
+Training time: 491.92s
+Trial 21 结果: 4.437647058823533
+
+===== Trial 22 开始 =====
+参数: {'alpha': 0.3112759511924955, 'gamma': 2.1092709696574676, 'lr': 0.00039593962862904437}
+lr 0.00039593962862904437 gamma 2.1092709696574676 alpha 0.3112759511924955 TrainAcc2: 88.7363% TrainAcc2num: 323.0000testAcc2: 63.2353% testAcc2num: 86.0000
+Model: resnet101_18ch Best para: 4.5024
+Training time: 492.35s
+Trial 22 结果: 4.502352941176472
+
+===== Trial 23 开始 =====
+参数: {'alpha': 0.2967354440772509, 'gamma': 1.961979225338298, 'lr': 0.00020548125176382147}
+lr 0.00020548125176382147 gamma 1.961979225338298 alpha 0.2967354440772509 TrainAcc2: 77.4869% TrainAcc2num: 148.0000testAcc2: 69.8113% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 4.3702
+Training time: 495.02s
+Trial 23 结果: 4.370188679245283
+
+===== Trial 24 开始 =====
+参数: {'alpha': 0.28181305052968925, 'gamma': 1.7760167088781957, 'lr': 0.0009996467714494903}
+lr 0.0009996467714494903 gamma 1.7760167088781957 alpha 0.28181305052968925 TrainAcc2: 71.7647% TrainAcc2num: 61.0000testAcc2: 77.4194% testAcc2num: 24.0000
+Model: resnet101_18ch Best para: 4.6606
+Training time: 491.76s
+Trial 24 结果: 4.660645161290323
+
+===== Trial 25 开始 =====
+参数: {'alpha': 0.328774267595102, 'gamma': 2.4228547876138258, 'lr': 0.0002719087314499493}
+Model: resnet101_18ch Best para: 3.1597
+Training time: 492.23s
+Trial 25 结果: 3.159661016949155
+
+===== Trial 26 开始 =====
+参数: {'alpha': 0.2689457134775685, 'gamma': 2.153355887747718, 'lr': 0.000468031142891886}
+Model: resnet101_18ch Best para: 3.1228
+Training time: 491.72s
+Trial 26 结果: 3.122816901408454
+
+===== Trial 27 开始 =====
+参数: {'alpha': 0.31335827426741686, 'gamma': 2.345128591274564, 'lr': 0.0003508001982048973}
+Model: resnet101_18ch Best para: 3.3441
+Training time: 491.81s
+Trial 27 结果: 3.3440506329113946
+
+===== Trial 28 开始 =====
+参数: {'alpha': 0.3350811124237128, 'gamma': 2.5022634562538757, 'lr': 0.00010912842115158251}
+lr 0.00010912842115158251 gamma 2.5022634562538757 alpha 0.3350811124237128 TrainAcc2: 81.0909% TrainAcc2num: 223.0000testAcc2: 65.9794% testAcc2num: 64.0000
+Model: resnet101_18ch Best para: 5.1068
+Training time: 493.19s
+Trial 28 结果: 5.106804123711342
+
+===== Trial 29 开始 =====
+参数: {'alpha': 0.32100232292170494, 'gamma': 1.7466866767232918, 'lr': 0.0001755134919595464}
+Model: resnet101_18ch Best para: 3.5242
+Training time: 491.26s
+Trial 29 结果: 3.52421052631579
+
+===== Trial 30 开始 =====
+参数: {'alpha': 0.29639387393779737, 'gamma': 1.9866126926806724, 'lr': 0.00014190289732424197}
+lr 0.00014190289732424197 gamma 1.9866126926806724 alpha 0.29639387393779737 TrainAcc2: 73.2143% TrainAcc2num: 82.0000testAcc2: 74.4186% testAcc2num: 32.0000
+Model: resnet101_18ch Best para: 5.2540
+Training time: 493.59s
+Trial 30 结果: 5.253953488372094
+
+===== Trial 31 开始 =====
+参数: {'alpha': 0.29792906839325867, 'gamma': 1.9897077096318037, 'lr': 0.00013262949829349646}
+Model: resnet101_18ch Best para: 3.4456
+Training time: 492.18s
+Trial 31 结果: 3.4456179775280926
+
+===== Trial 32 开始 =====
+参数: {'alpha': 0.2733359866909994, 'gamma': 2.1805804091932437, 'lr': 0.00012427602207658846}
+lr 0.00012427602207658846 gamma 2.1805804091932437 alpha 0.2733359866909994 TrainAcc2: 86.3208% TrainAcc2num: 183.0000testAcc2: 74.0741% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 6.4296
+Training time: 493.26s
+Trial 32 结果: 6.42962962962963
+
+===== Trial 33 开始 =====
+参数: {'alpha': 0.2602168134009576, 'gamma': 2.1522014830648057, 'lr': 0.00019940681311170254}
+lr 0.00019940681311170254 gamma 2.1522014830648057 alpha 0.2602168134009576 TrainAcc2: 76.7606% TrainAcc2num: 109.0000testAcc2: 68.1159% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.7545
+Training time: 491.71s
+Trial 33 结果: 4.754492753623191
+
+===== Trial 34 开始 =====
+参数: {'alpha': 0.27312443274158993, 'gamma': 2.2850191679312157, 'lr': 0.00011596362916316722}
+lr 0.00011596362916316722 gamma 2.2850191679312157 alpha 0.27312443274158993 TrainAcc2: 87.5000% TrainAcc2num: 196.0000testAcc2: 66.2500% testAcc2num: 53.0000
+Model: resnet101_18ch Best para: 4.3725
+Training time: 491.95s
+Trial 34 结果: 4.3725000000000005
+
+===== Trial 35 开始 =====
+参数: {'alpha': 0.28285124846748155, 'gamma': 2.1794877690900822, 'lr': 0.0001609182755186107}
+Model: resnet101_18ch Best para: 2.6400
+Training time: 490.91s
+Trial 35 结果: 2.640000000000001
+
+===== Trial 36 开始 =====
+参数: {'alpha': 0.3484491661211284, 'gamma': 2.3674422511259254, 'lr': 0.00026981517916785294}
+lr 0.00026981517916785294 gamma 2.3674422511259254 alpha 0.3484491661211284 TrainAcc2: 77.7778% TrainAcc2num: 210.0000testAcc2: 73.3333% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 5.0600
+Training time: 491.27s
+Trial 36 结果: 5.06
+
+===== Trial 37 开始 =====
+参数: {'alpha': 0.26682451974804816, 'gamma': 2.2887440207890974, 'lr': 0.0001260586334934633}
+Model: resnet101_18ch Best para: 3.3441
+Training time: 495.32s
+Trial 37 结果: 3.3440506329113946
+
+===== Trial 38 开始 =====
+参数: {'alpha': 0.3661441888633708, 'gamma': 2.3988614808025264, 'lr': 0.0001012262542066288}
+Model: resnet101_18ch Best para: 3.8919
+Training time: 492.84s
+Trial 38 结果: 3.891851851851855
+
+===== Trial 39 开始 =====
+参数: {'alpha': 0.27737954543952514, 'gamma': 2.2191043599739757, 'lr': 0.0007584456796495725}
+lr 0.0007584456796495725 gamma 2.2191043599739757 alpha 0.27737954543952514 TrainAcc2: 80.0000% TrainAcc2num: 64.0000testAcc2: 71.0145% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 6.3771
+Training time: 492.22s
+Trial 39 结果: 6.377101449275367
+
+===== Trial 40 开始 =====
+参数: {'alpha': 0.2786937413066408, 'gamma': 2.218702842705567, 'lr': 0.0008145028733700092}
+Model: resnet101_18ch Best para: 3.6046
+Training time: 492.68s
+Trial 40 结果: 3.6046153846153848
+
+===== Trial 41 开始 =====
+参数: {'alpha': 0.27356349772377714, 'gamma': 2.1313163413281533, 'lr': 0.0006720689146065059}
+lr 0.0006720689146065059 gamma 2.1313163413281533 alpha 0.27356349772377714 TrainAcc2: 76.5957% TrainAcc2num: 72.0000testAcc2: 75.0000% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 6.6300
+Training time: 493.12s
+Trial 41 结果: 6.630000000000002
+
+===== Trial 42 开始 =====
+参数: {'alpha': 0.2873577514169986, 'gamma': 2.327488912085201, 'lr': 0.000672174762597443}
+lr 0.000672174762597443 gamma 2.327488912085201 alpha 0.2873577514169986 TrainAcc2: 71.2121% TrainAcc2num: 47.0000testAcc2: 73.0769% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 5.7292
+Training time: 493.32s
+Trial 42 结果: 5.729230769230769
+
+===== Trial 43 开始 =====
+参数: {'alpha': 0.2749289410623856, 'gamma': 2.133234713111871, 'lr': 0.0007537456226352562}
+lr 0.0007537456226352562 gamma 2.133234713111871 alpha 0.2749289410623856 TrainAcc2: 73.0769% TrainAcc2num: 133.0000testAcc2: 81.8182% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 4.2873
+Training time: 495.28s
+Trial 43 结果: 4.287272727272729
+
+===== Trial 44 开始 =====
+参数: {'alpha': 0.26692448105619815, 'gamma': 2.4678286507910334, 'lr': 0.0006353116275980807}
+Model: resnet101_18ch Best para: 3.2478
+Training time: 493.03s
+Trial 44 结果: 3.247826086956524
+
+===== Trial 45 开始 =====
+参数: {'alpha': 0.2850703863721558, 'gamma': 2.18617995054739, 'lr': 0.0009398573895142514}
+lr 0.0009398573895142514 gamma 2.18617995054739 alpha 0.2850703863721558 TrainAcc2: 63.3929% TrainAcc2num: 71.0000testAcc2: 77.4194% testAcc2num: 24.0000
+Model: resnet101_18ch Best para: 4.6606
+Training time: 493.22s
+Trial 45 结果: 4.660645161290323
+
+===== Trial 46 开始 =====
+参数: {'alpha': 0.2640370515966257, 'gamma': 2.210520912423895, 'lr': 0.0005495890878711782}
+lr 0.0005495890878711782 gamma 2.210520912423895 alpha 0.2640370515966257 TrainAcc2: 77.7778% TrainAcc2num: 77.0000testAcc2: 70.9677% testAcc2num: 44.0000
+Model: resnet101_18ch Best para: 5.7058
+Training time: 493.21s
+Trial 46 结果: 5.705806451612906
+
+===== Trial 47 开始 =====
+参数: {'alpha': 0.27797071100037407, 'gamma': 2.0989199157283642, 'lr': 0.0007797465541268904}
+Model: resnet101_18ch Best para: 3.2148
+Training time: 492.91s
+Trial 47 结果: 3.214814814814815
+
+===== Trial 48 开始 =====
+参数: {'alpha': 0.2924092723993282, 'gamma': 2.260599950070323, 'lr': 0.0008735416645699718}
+lr 0.0008735416645699718 gamma 2.260599950070323 alpha 0.2924092723993282 TrainAcc2: 73.6842% TrainAcc2num: 28.0000testAcc2: 71.7391% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 4.5339
+Training time: 492.51s
+Trial 48 结果: 4.533913043478261
+
+===== Trial 49 开始 =====
+参数: {'alpha': 0.30522547203670336, 'gamma': 2.5385480401016447, 'lr': 0.00047294261475392345}
+lr 0.00047294261475392345 gamma 2.5385480401016447 alpha 0.30522547203670336 TrainAcc2: 74.1784% TrainAcc2num: 158.0000testAcc2: 70.3704% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 4.7007
+Training time: 492.07s
+Trial 49 结果: 4.700740740740743
+
+===== Trial 50 开始 =====
+参数: {'alpha': 0.2719913875718396, 'gamma': 2.419042494822892, 'lr': 0.0005735443831175566}
+lr 0.0005735443831175566 gamma 2.419042494822892 alpha 0.2719913875718396 TrainAcc2: 87.0861% TrainAcc2num: 263.0000testAcc2: 68.7500% testAcc2num: 44.0000
+Model: resnet101_18ch Best para: 4.7300
+Training time: 493.35s
+Trial 50 结果: 4.730000000000002
+
+===== Trial 51 开始 =====
+参数: {'alpha': 0.28809908646468263, 'gamma': 2.3295407855281387, 'lr': 0.0006988804915339457}
+lr 0.0006988804915339457 gamma 2.3295407855281387 alpha 0.28809908646468263 TrainAcc2: 76.5517% TrainAcc2num: 111.0000testAcc2: 71.6981% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 5.2053
+Training time: 493.18s
+Trial 51 结果: 5.205283018867924
+
+===== Trial 52 开始 =====
+参数: {'alpha': 0.29088681588278903, 'gamma': 2.3258880436103833, 'lr': 0.00067791617965474}
+lr 0.00067791617965474 gamma 2.3258880436103833 alpha 0.29088681588278903 TrainAcc2: 74.3455% TrainAcc2num: 142.0000testAcc2: 70.9091% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 5.0345
+Training time: 495.13s
+Trial 52 结果: 5.034545454545457
+
+===== Trial 53 开始 =====
+参数: {'alpha': 0.2806828427538085, 'gamma': 2.241143264258427, 'lr': 0.000617603022771291}
+lr 0.000617603022771291 gamma 2.241143264258427 alpha 0.2806828427538085 TrainAcc2: 99.2537% TrainAcc2num: 399.0000testAcc2: 62.8378% testAcc2num: 93.0000
+Model: resnet101_18ch Best para: 4.4992
+Training time: 494.86s
+Trial 53 结果: 4.499189189189195
+
+===== Trial 54 开始 =====
+参数: {'alpha': 0.27107864988763086, 'gamma': 2.2967394279305857, 'lr': 0.000506515240967187}
+lr 0.000506515240967187 gamma 2.2967394279305857 alpha 0.27107864988763086 TrainAcc2: 75.0000% TrainAcc2num: 129.0000testAcc2: 68.0556% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 4.9272
+Training time: 492.74s
+Trial 54 结果: 4.927222222222225
+
+===== Trial 55 开始 =====
+参数: {'alpha': 0.2635902768348844, 'gamma': 2.396534735104951, 'lr': 0.0004172355354688253}
+lr 0.0004172355354688253 gamma 2.396534735104951 alpha 0.2635902768348844 TrainAcc2: 67.0732% TrainAcc2num: 55.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 488.91s
+Trial 55 结果: 4.205
+
+===== Trial 56 开始 =====
+参数: {'alpha': 0.28519601218443463, 'gamma': 2.077036578136446, 'lr': 0.0007299028743208406}
+lr 0.0007299028743208406 gamma 2.077036578136446 alpha 0.28519601218443463 TrainAcc2: 72.7273% TrainAcc2num: 48.0000testAcc2: 72.9167% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 5.2208
+Training time: 492.48s
+Trial 56 结果: 5.220833333333333
+
+===== Trial 57 开始 =====
+参数: {'alpha': 0.27657112938481626, 'gamma': 2.0272679060227405, 'lr': 0.0005143289093180052}
+lr 0.0005143289093180052 gamma 2.0272679060227405 alpha 0.27657112938481626 TrainAcc2: 74.1573% TrainAcc2num: 132.0000testAcc2: 73.4694% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 5.5690
+Training time: 493.27s
+Trial 57 结果: 5.5689795918367375
+
+===== Trial 58 开始 =====
+参数: {'alpha': 0.33267672368914164, 'gamma': 2.3669407406465233, 'lr': 0.0008260244056419381}
+lr 0.0008260244056419381 gamma 2.3669407406465233 alpha 0.33267672368914164 TrainAcc2: 65.4206% TrainAcc2num: 70.0000testAcc2: 77.7778% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 5.5378
+Training time: 492.02s
+Trial 58 结果: 5.537777777777779
+
+===== Trial 59 开始 =====
+参数: {'alpha': 0.2697784016352414, 'gamma': 1.5096817885221991, 'lr': 0.0006214253652530977}
+Model: resnet101_18ch Best para: 3.1421
+Training time: 493.93s
+Trial 59 结果: 3.1421052631578954
+
+===== Trial 60 开始 =====
+参数: {'alpha': 0.33932259352151406, 'gamma': 2.4520105699815105, 'lr': 0.0009080627551601403}
+Model: resnet101_18ch Best para: 3.4206
+Training time: 491.37s
+Trial 60 结果: 3.4205555555555582
+
+===== Trial 61 开始 =====
+参数: {'alpha': 0.2636183997658533, 'gamma': 2.2253577243001823, 'lr': 0.0005650166298844049}
+lr 0.0005650166298844049 gamma 2.2253577243001823 alpha 0.2636183997658533 TrainAcc2: 77.9310% TrainAcc2num: 113.0000testAcc2: 72.9730% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 4.0427
+Training time: 492.40s
+Trial 61 结果: 4.042702702702703
+
+===== Trial 62 开始 =====
+参数: {'alpha': 0.26302912046289884, 'gamma': 2.1960050216570157, 'lr': 0.00036198473450348563}
+Model: resnet101_18ch Best para: 2.7133
+Training time: 491.19s
+Trial 62 结果: 2.7133333333333383
+
+===== Trial 63 开始 =====
+参数: {'alpha': 0.274431370294422, 'gamma': 2.127612826862871, 'lr': 0.0007143440402469468}
+lr 0.0007143440402469468 gamma 2.127612826862871 alpha 0.274431370294422 TrainAcc2: 75.8929% TrainAcc2num: 85.0000testAcc2: 84.0000% testAcc2num: 21.0000
+Model: resnet101_18ch Best para: 5.4600
+Training time: 493.20s
+Trial 63 结果: 5.46
+
+===== Trial 64 开始 =====
+参数: {'alpha': 0.3176469162767485, 'gamma': 2.1741410700988366, 'lr': 0.0006598697921609051}
+lr 0.0006598697921609051 gamma 2.1741410700988366 alpha 0.3176469162767485 TrainAcc2: 60.0000% TrainAcc2num: 18.0000testAcc2: 71.4286% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 4.0286
+Training time: 491.55s
+Trial 64 结果: 4.02857142857143
+
+===== Trial 65 开始 =====
+参数: {'alpha': 0.2602862728123221, 'gamma': 2.252576696982687, 'lr': 0.0005441809391111572}
+Model: resnet101_18ch Best para: 2.9105
+Training time: 490.24s
+Trial 65 结果: 2.9104761904761904
+
+===== Trial 66 开始 =====
+参数: {'alpha': 0.26707813190342944, 'gamma': 2.2961259977862487, 'lr': 0.00011385466189182891}
+lr 0.00011385466189182891 gamma 2.2961259977862487 alpha 0.26707813190342944 TrainAcc2: 83.7438% TrainAcc2num: 170.0000testAcc2: 67.1233% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 4.4704
+Training time: 496.18s
+Trial 66 结果: 4.470410958904113
+
+===== Trial 67 开始 =====
+参数: {'alpha': 0.28218722336993635, 'gamma': 2.314729399979345, 'lr': 0.0007747818365952554}
+lr 0.0007747818365952554 gamma 2.314729399979345 alpha 0.28218722336993635 TrainAcc2: 78.6127% TrainAcc2num: 136.0000testAcc2: 64.0351% testAcc2num: 73.0000
+Model: resnet101_18ch Best para: 4.4056
+Training time: 492.73s
+Trial 67 结果: 4.405614035087722
+
+===== Trial 68 开始 =====
+参数: {'alpha': 0.3263273014705371, 'gamma': 2.2145718817744253, 'lr': 0.0005878485005819127}
+Model: resnet101_18ch Best para: 2.9506
+Training time: 491.06s
+Trial 68 结果: 2.950588235294121
+
+===== Trial 69 开始 =====
+参数: {'alpha': 0.26907800618199323, 'gamma': 1.6157728819383341, 'lr': 0.0006634817481110941}
+lr 0.0006634817481110941 gamma 1.6157728819383341 alpha 0.26907800618199323 TrainAcc2: 79.6460% TrainAcc2num: 90.0000testAcc2: 79.4872% testAcc2num: 31.0000
+Model: resnet101_18ch Best para: 6.6610
+Training time: 491.25s
+Trial 69 结果: 6.661025641025641
+
+===== Trial 70 开始 =====
+参数: {'alpha': 0.2713014468294188, 'gamma': 1.5765156601775132, 'lr': 0.0001480702493923787}
+lr 0.0001480702493923787 gamma 1.5765156601775132 alpha 0.2713014468294188 TrainAcc2: 79.2683% TrainAcc2num: 130.0000testAcc2: 67.9487% testAcc2num: 53.0000
+Model: resnet101_18ch Best para: 5.2728
+Training time: 493.20s
+Trial 70 结果: 5.272820512820516
+
+===== Trial 71 开始 =====
+参数: {'alpha': 0.2672934013841725, 'gamma': 1.8535344740016961, 'lr': 0.000633381271440519}
+Model: resnet101_18ch Best para: 3.6794
+Training time: 490.79s
+Trial 71 结果: 3.6794117647058835
+
+===== Trial 72 开始 =====
+参数: {'alpha': 0.2766679688602845, 'gamma': 1.5960615289289555, 'lr': 0.0008287851259767014}
+Model: resnet101_18ch Best para: 3.3329
+Training time: 493.15s
+Trial 72 结果: 3.3329032258064517
+
+===== Trial 73 开始 =====
+参数: {'alpha': 0.2734494572199524, 'gamma': 2.3573565483032275, 'lr': 0.0005312027713693168}
+lr 0.0005312027713693168 gamma 2.3573565483032275 alpha 0.2734494572199524 TrainAcc2: 73.2824% TrainAcc2num: 96.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 492.65s
+Trial 73 结果: 4.391578947368421
+
+===== Trial 74 开始 =====
+参数: {'alpha': 0.26430979173896085, 'gamma': 1.6674178522551786, 'lr': 0.0006822512531581119}
+lr 0.0006822512531581119 gamma 1.6674178522551786 alpha 0.26430979173896085 TrainAcc2: 75.4545% TrainAcc2num: 83.0000testAcc2: 66.6667% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 4.1600
+Training time: 493.32s
+Trial 74 结果: 4.16
+
+===== Trial 75 开始 =====
+参数: {'alpha': 0.28039386190756527, 'gamma': 2.1449636066232265, 'lr': 0.0004716052162399542}
+Model: resnet101_18ch Best para: 3.9297
+Training time: 492.82s
+Trial 75 结果: 3.929655172413793
+
+===== Trial 76 开始 =====
+参数: {'alpha': 0.3795948596728166, 'gamma': 2.265678363402105, 'lr': 0.00023411006745368702}
+lr 0.00023411006745368702 gamma 2.265678363402105 alpha 0.3795948596728166 TrainAcc2: 76.2712% TrainAcc2num: 225.0000testAcc2: 66.6667% testAcc2num: 50.0000
+Model: resnet101_18ch Best para: 4.3333
+Training time: 493.60s
+Trial 76 结果: 4.333333333333334
+
+===== Trial 77 开始 =====
+参数: {'alpha': 0.32117098458458054, 'gamma': 2.0644177538630184, 'lr': 0.0007622069302348523}
+lr 0.0007622069302348523 gamma 2.0644177538630184 alpha 0.32117098458458054 TrainAcc2: 73.1183% TrainAcc2num: 136.0000testAcc2: 67.1642% testAcc2num: 45.0000
+Model: resnet101_18ch Best para: 4.1239
+Training time: 491.27s
+Trial 77 结果: 4.12388059701493
+
+===== Trial 78 开始 =====
+参数: {'alpha': 0.3076251202527176, 'gamma': 2.0228913259546535, 'lr': 0.00010657328159799052}
+lr 0.00010657328159799052 gamma 2.0228913259546535 alpha 0.3076251202527176 TrainAcc2: 74.8571% TrainAcc2num: 131.0000testAcc2: 65.8228% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 4.0678
+Training time: 493.79s
+Trial 78 结果: 4.067848101265822
+
+===== Trial 79 开始 =====
+参数: {'alpha': 0.26968296760558413, 'gamma': 2.4269342210476967, 'lr': 0.000982938594936802}
+Model: resnet101_18ch Best para: 3.1903
+Training time: 491.36s
+Trial 79 结果: 3.1902702702702723
+
+===== Trial 80 开始 =====
+参数: {'alpha': 0.28540141745425546, 'gamma': 2.10521046124805, 'lr': 0.000658749941219996}
+Model: resnet101_18ch Best para: 3.2148
+Training time: 491.51s
+Trial 80 结果: 3.214814814814815
+
+===== Trial 81 开始 =====
+参数: {'alpha': 0.27693013340728434, 'gamma': 1.9382021188147645, 'lr': 0.000505467627427003}
+lr 0.000505467627427003 gamma 1.9382021188147645 alpha 0.27693013340728434 TrainAcc2: 73.6527% TrainAcc2num: 123.0000testAcc2: 69.2308% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 4.0431
+Training time: 492.15s
+Trial 81 结果: 4.043076923076924
+
+===== Trial 82 开始 =====
+参数: {'alpha': 0.27553086648901143, 'gamma': 1.8179081986421008, 'lr': 0.0005882033229172623}
+Model: resnet101_18ch Best para: 3.3943
+Training time: 493.59s
+Trial 82 结果: 3.394285714285719
+
+===== Trial 83 开始 =====
+参数: {'alpha': 0.2900003184209093, 'gamma': 2.0365223002881643, 'lr': 0.00012904618048204935}
+lr 0.00012904618048204935 gamma 2.0365223002881643 alpha 0.2900003184209093 TrainAcc2: 83.8428% TrainAcc2num: 192.0000testAcc2: 72.0000% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 5.0400
+Training time: 493.76s
+Trial 83 结果: 5.040000000000001
+
+===== Trial 84 开始 =====
+参数: {'alpha': 0.2662618291891934, 'gamma': 2.3890209358065393, 'lr': 0.0004263870937272357}
+lr 0.0004263870937272357 gamma 2.3890209358065393 alpha 0.2662618291891934 TrainAcc2: 75.9124% TrainAcc2num: 104.0000testAcc2: 68.8525% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 4.5580
+Training time: 492.23s
+Trial 84 结果: 4.5580327868852475
+
+===== Trial 85 开始 =====
+参数: {'alpha': 0.29314427997724085, 'gamma': 2.496979365855032, 'lr': 0.0007223278199943748}
+lr 0.0007223278199943748 gamma 2.496979365855032 alpha 0.29314427997724085 TrainAcc2: 66.6667% TrainAcc2num: 90.0000testAcc2: 74.2857% testAcc2num: 26.0000
+Model: resnet101_18ch Best para: 4.2343
+Training time: 492.38s
+Trial 85 结果: 4.234285714285716
+
+===== Trial 86 开始 =====
+参数: {'alpha': 0.278376250593102, 'gamma': 2.1687066086062723, 'lr': 0.00011912845820319698}
+lr 0.00011912845820319698 gamma 2.1687066086062723 alpha 0.278376250593102 TrainAcc2: 79.1209% TrainAcc2num: 72.0000testAcc2: 71.4286% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 4.0286
+Training time: 492.01s
+Trial 86 结果: 4.02857142857143
+
+===== Trial 87 开始 =====
+参数: {'alpha': 0.2829926283921445, 'gamma': 2.23446159545639, 'lr': 0.00029078968505911735}
+Model: resnet101_18ch Best para: 2.5108
+Training time: 490.88s
+Trial 87 结果: 2.5107692307692324
+
+===== Trial 88 开始 =====
+参数: {'alpha': 0.2730392847688555, 'gamma': 2.003778661568696, 'lr': 0.0005262289052625222}
+lr 0.0005262289052625222 gamma 2.003778661568696 alpha 0.2730392847688555 TrainAcc2: 84.7162% TrainAcc2num: 194.0000testAcc2: 67.6056% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 4.6107
+Training time: 494.78s
+Trial 88 结果: 4.610704225352114
+
+===== Trial 89 开始 =====
+参数: {'alpha': 0.26866441435232, 'gamma': 1.7381256819826136, 'lr': 0.00013513706192510924}
+Model: resnet101_18ch Best para: 3.5475
+Training time: 491.81s
+Trial 89 结果: 3.547500000000001
+
+===== Trial 90 开始 =====
+参数: {'alpha': 0.29977243716294233, 'gamma': 2.2726292485998236, 'lr': 0.000490357861865965}
+lr 0.000490357861865965 gamma 2.2726292485998236 alpha 0.29977243716294233 TrainAcc2: 72.6562% TrainAcc2num: 93.0000testAcc2: 82.6087% testAcc2num: 19.0000
+Model: resnet101_18ch Best para: 4.6757
+Training time: 490.19s
+Trial 90 结果: 4.675652173913044
+
+===== Trial 91 开始 =====
+参数: {'alpha': 0.3306141944124066, 'gamma': 2.363837871638331, 'lr': 0.0008346709952258247}
+Model: resnet101_18ch Best para: 3.8805
+Training time: 498.13s
+Trial 91 结果: 3.8804651162790735
+
+===== Trial 92 开始 =====
+参数: {'alpha': 0.3306477529246459, 'gamma': 2.3294150770806707, 'lr': 0.0006401354551084346}
+Model: resnet101_18ch Best para: 3.9991
+Training time: 491.56s
+Trial 92 结果: 3.9991304347826118
+
+===== Trial 93 开始 =====
+参数: {'alpha': 0.3345363162671382, 'gamma': 1.6745500723353015, 'lr': 0.0008825019421589105}
+Model: resnet101_18ch Best para: 3.4000
+Training time: 494.27s
+Trial 93 结果: 3.400000000000003
+
+===== Trial 94 开始 =====
+参数: {'alpha': 0.3410158926551547, 'gamma': 2.2014574431078193, 'lr': 0.0007965262753120569}
+Model: resnet101_18ch Best para: 3.2645
+Training time: 492.06s
+Trial 94 结果: 3.2644897959183723
+
+===== Trial 95 开始 =====
+参数: {'alpha': 0.353321321349, 'gamma': 2.3119064076157567, 'lr': 0.0007301588032144895}
+Model: resnet101_18ch Best para: 3.4868
+Training time: 492.12s
+Trial 95 结果: 3.4867796610169517
+
+===== Trial 96 开始 =====
+参数: {'alpha': 0.31528593901015073, 'gamma': 2.540506053503301, 'lr': 0.0006936469702391949}
+Model: resnet101_18ch Best para: 3.5486
+Training time: 490.01s
+Trial 96 结果: 3.5485714285714303
+
+===== Trial 97 开始 =====
+参数: {'alpha': 0.3445771394543771, 'gamma': 2.3744074354007205, 'lr': 0.000554933026849074}
+lr 0.000554933026849074 gamma 2.3744074354007205 alpha 0.3445771394543771 TrainAcc2: 75.6098% TrainAcc2num: 186.0000testAcc2: 67.7419% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 4.0916
+Training time: 492.28s
+Trial 97 结果: 4.091612903225807
+
+===== Trial 98 开始 =====
+参数: {'alpha': 0.3255471205855476, 'gamma': 2.4135458710749806, 'lr': 0.000604915674041762}
+Model: resnet101_18ch Best para: 3.9867
+Training time: 490.95s
+Trial 98 结果: 3.986666666666667
+
+===== Trial 99 开始 =====
+参数: {'alpha': 0.2622326593308069, 'gamma': 2.115049392939922, 'lr': 0.0004464983447604419}
+Model: resnet101_18ch Best para: 3.1597
+Training time: 491.51s
+Trial 99 结果: 3.159661016949155
+
+===== Trial 100 开始 =====
+参数: {'alpha': 0.2712968107551437, 'gamma': 1.548587460254308, 'lr': 0.000845576676605363}
+lr 0.000845576676605363 gamma 1.548587460254308 alpha 0.2712968107551437 TrainAcc2: 80.0000% TrainAcc2num: 144.0000testAcc2: 68.6567% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 4.9021
+Training time: 491.71s
+Trial 100 结果: 4.902089552238807
+
+===== Trial 101 开始 =====
+参数: {'alpha': 0.2656975479968712, 'gamma': 2.080670227186134, 'lr': 0.0003309815981454271}
+lr 0.0003309815981454271 gamma 2.080670227186134 alpha 0.2656975479968712 TrainAcc2: 73.9394% TrainAcc2num: 122.0000testAcc2: 66.2162% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 4.0259
+Training time: 492.84s
+Trial 101 结果: 4.025945945945948
+
+===== Trial 102 开始 =====
+参数: {'alpha': 0.2603411028496743, 'gamma': 1.9543382261871078, 'lr': 0.00018090336955344655}
+lr 0.00018090336955344655 gamma 1.9543382261871078 alpha 0.2603411028496743 TrainAcc2: 84.7619% TrainAcc2num: 178.0000testAcc2: 65.5914% testAcc2num: 61.0000
+Model: resnet101_18ch Best para: 4.6308
+Training time: 493.42s
+Trial 102 结果: 4.630752688172044
+
+===== Trial 103 开始 =====
+参数: {'alpha': 0.2797570170620735, 'gamma': 2.1610167313707094, 'lr': 0.0002955066356131426}
+lr 0.0002955066356131426 gamma 2.1610167313707094 alpha 0.2797570170620735 TrainAcc2: 69.5402% TrainAcc2num: 121.0000testAcc2: 71.4286% testAcc2num: 45.0000
+Model: resnet101_18ch Best para: 6.0429
+Training time: 494.04s
+Trial 103 结果: 6.042857142857145
+
+===== Trial 104 开始 =====
+参数: {'alpha': 0.27970559953120366, 'gamma': 2.147331392997129, 'lr': 0.0007484606125498713}
+lr 0.0007484606125498713 gamma 2.147331392997129 alpha 0.27970559953120366 TrainAcc2: 70.2970% TrainAcc2num: 71.0000testAcc2: 90.0000% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 5.7600
+Training time: 491.72s
+Trial 104 结果: 5.760000000000002
+
+===== Trial 105 开始 =====
+参数: {'alpha': 0.2874144292745941, 'gamma': 2.134977577609985, 'lr': 0.0007441842244676864}
+lr 0.0007441842244676864 gamma 2.134977577609985 alpha 0.2874144292745941 TrainAcc2: 73.3333% TrainAcc2num: 44.0000testAcc2: 67.5676% testAcc2num: 50.0000
+Model: resnet101_18ch Best para: 4.7838
+Training time: 491.65s
+Trial 105 结果: 4.783783783783785
+
+===== Trial 106 开始 =====
+参数: {'alpha': 0.28043105988050326, 'gamma': 2.2046184672768043, 'lr': 0.0006531223337216138}
+Model: resnet101_18ch Best para: 3.5475
+Training time: 492.01s
+Trial 106 结果: 3.547500000000001
+
+===== Trial 107 开始 =====
+参数: {'alpha': 0.27547305302028535, 'gamma': 2.1632070021810352, 'lr': 0.00038571266452156096}
+Model: resnet101_18ch Best para: 2.7560
+Training time: 493.48s
+Trial 107 结果: 2.7559550561797765
+
+===== Trial 108 开始 =====
+参数: {'alpha': 0.2790153114152415, 'gamma': 2.2412560096112606, 'lr': 0.0006122431712014104}
+lr 0.0006122431712014104 gamma 2.2412560096112606 alpha 0.2790153114152415 TrainAcc2: 74.2857% TrainAcc2num: 104.0000testAcc2: 71.0145% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 6.3771
+Training time: 492.48s
+Trial 108 结果: 6.377101449275367
+
+===== Trial 109 开始 =====
+参数: {'alpha': 0.28334745919366344, 'gamma': 2.238730200993368, 'lr': 0.00021011887454726633}
+Model: resnet101_18ch Best para: 3.6400
+Training time: 492.93s
+Trial 109 结果: 3.6400000000000032
+
+===== Trial 110 开始 =====
+参数: {'alpha': 0.27279945175372206, 'gamma': 2.1869093499370003, 'lr': 0.0006836068559144086}
+Model: resnet101_18ch Best para: 3.5062
+Training time: 491.64s
+Trial 110 结果: 3.506153846153847
+
+===== Trial 111 开始 =====
+参数: {'alpha': 0.2764897484783303, 'gamma': 2.1537483889219096, 'lr': 0.0005888812436377847}
+Model: resnet101_18ch Best para: 3.2909
+Training time: 490.66s
+Trial 111 结果: 3.290909090909091
+
+===== Trial 112 开始 =====
+参数: {'alpha': 0.2694169288588016, 'gamma': 2.2225132185205974, 'lr': 0.0006206701483453723}
+Model: resnet101_18ch Best para: 2.6456
+Training time: 493.45s
+Trial 112 结果: 2.645569620253169
+
+===== Trial 113 开始 =====
+参数: {'alpha': 0.2792901686132923, 'gamma': 2.2534538000402673, 'lr': 0.0007662430027238589}
+lr 0.0007662430027238589 gamma 2.2534538000402673 alpha 0.2792901686132923 TrainAcc2: 76.6423% TrainAcc2num: 105.0000testAcc2: 90.0000% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 5.7600
+Training time: 493.84s
+Trial 113 结果: 5.760000000000002
+
+===== Trial 114 开始 =====
+参数: {'alpha': 0.28000368291179045, 'gamma': 2.2559161829527565, 'lr': 0.0007779807097537714}
+lr 0.0007779807097537714 gamma 2.2559161829527565 alpha 0.28000368291179045 TrainAcc2: 82.5397% TrainAcc2num: 52.0000testAcc2: 68.5714% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 5.0743
+Training time: 491.32s
+Trial 114 结果: 5.0742857142857165
+
+===== Trial 115 开始 =====
+参数: {'alpha': 0.28399525441267226, 'gamma': 2.2968082131148035, 'lr': 0.0009277550242476424}
+lr 0.0009277550242476424 gamma 2.2968082131148035 alpha 0.28399525441267226 TrainAcc2: 80.9917% TrainAcc2num: 98.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 493.91s
+Trial 115 结果: 4.391578947368421
+
+===== Trial 116 开始 =====
+参数: {'alpha': 0.27858142583104695, 'gamma': 2.3463580589396793, 'lr': 0.0007012189798422762}
+Model: resnet101_18ch Best para: 3.3183
+Training time: 491.15s
+Trial 116 结果: 3.318260869565224
+
+===== Trial 117 开始 =====
+参数: {'alpha': 0.2863264787642944, 'gamma': 2.1822493053369802, 'lr': 0.0007976345085361099}
+lr 0.0007976345085361099 gamma 2.1822493053369802 alpha 0.2863264787642944 TrainAcc2: 52.4390% TrainAcc2num: 43.0000testAcc2: 70.0000% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 4.2000
+Training time: 492.67s
+Trial 117 结果: 4.2
+
+===== Trial 118 开始 =====
+参数: {'alpha': 0.28941686489809215, 'gamma': 2.2773444290677185, 'lr': 0.0007542982690607419}
+lr 0.0007542982690607419 gamma 2.2773444290677185 alpha 0.28941686489809215 TrainAcc2: 78.7879% TrainAcc2num: 130.0000testAcc2: 66.6667% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 4.5067
+Training time: 493.54s
+Trial 118 结果: 4.506666666666667
+
+===== Trial 119 开始 =====
+参数: {'alpha': 0.29390703580038396, 'gamma': 2.24752539963741, 'lr': 0.0006660533641146309}
+lr 0.0006660533641146309 gamma 2.24752539963741 alpha 0.29390703580038396 TrainAcc2: 72.2772% TrainAcc2num: 73.0000testAcc2: 87.5000% testAcc2num: 14.0000
+Model: resnet101_18ch Best para: 4.1300
+Training time: 492.73s
+Trial 119 结果: 4.130000000000001
+
+===== Trial 120 开始 =====
+参数: {'alpha': 0.2740722796420011, 'gamma': 2.114332910025495, 'lr': 0.0001001212271813221}
+Model: resnet101_18ch Best para: 3.9851
+Training time: 492.73s
+Trial 120 结果: 3.9851162790697723
+
+===== Trial 121 开始 =====
+参数: {'alpha': 0.28167135946666033, 'gamma': 2.141441620777231, 'lr': 0.000572062190836277}
+lr 0.000572062190836277 gamma 2.141441620777231 alpha 0.28167135946666033 TrainAcc2: 74.0385% TrainAcc2num: 77.0000testAcc2: 69.6970% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 5.3806
+Training time: 492.27s
+Trial 121 结果: 5.380606060606064
+
+===== Trial 122 开始 =====
+参数: {'alpha': 0.26858644232563955, 'gamma': 2.2098425814835685, 'lr': 0.00010604705169669368}
+Model: resnet101_18ch Best para: 2.2188
+Training time: 492.26s
+Trial 122 结果: 2.2188235294117664
+
+===== Trial 123 开始 =====
+参数: {'alpha': 0.32290885806060177, 'gamma': 2.3103395074487443, 'lr': 0.0006084936266246543}
+Model: resnet101_18ch Best para: 2.9252
+Training time: 492.12s
+Trial 123 结果: 2.9252173913043515
+
+===== Trial 124 开始 =====
+参数: {'alpha': 0.2777823952471075, 'gamma': 2.167166984624343, 'lr': 0.00015150216636942459}
+lr 0.00015150216636942459 gamma 2.167166984624343 alpha 0.2777823952471075 TrainAcc2: 69.4444% TrainAcc2num: 50.0000testAcc2: 67.1233% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 4.4704
+Training time: 492.96s
+Trial 124 结果: 4.470410958904113
+
+===== Trial 125 开始 =====
+参数: {'alpha': 0.27153871671216995, 'gamma': 2.2287397962190556, 'lr': 0.0007154554200677319}
+lr 0.0007154554200677319 gamma 2.2287397962190556 alpha 0.27153871671216995 TrainAcc2: 80.6306% TrainAcc2num: 179.0000testAcc2: 68.1818% testAcc2num: 45.0000
+Model: resnet101_18ch Best para: 4.5818
+Training time: 491.90s
+Trial 125 结果: 4.581818181818181
+
+===== Trial 126 开始 =====
+参数: {'alpha': 0.27469023093068373, 'gamma': 2.08260603611795, 'lr': 0.0006288930735126063}
+Model: resnet101_18ch Best para: 3.1228
+Training time: 491.28s
+Trial 126 结果: 3.122816901408454
+
+===== Trial 127 开始 =====
+参数: {'alpha': 0.26486741605984143, 'gamma': 2.3375332869142516, 'lr': 0.0005603943576958833}
+lr 0.0005603943576958833 gamma 2.3375332869142516 alpha 0.26486741605984143 TrainAcc2: 73.2558% TrainAcc2num: 63.0000testAcc2: 78.3784% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 5.9097
+Training time: 493.69s
+Trial 127 结果: 5.90972972972973
+
+===== Trial 128 开始 =====
+参数: {'alpha': 0.2651038674301641, 'gamma': 2.3357262854870906, 'lr': 0.00012224233335731135}
+Model: resnet101_18ch Best para: 3.6170
+Training time: 495.21s
+Trial 128 结果: 3.6169565217391306
+
+===== Trial 129 开始 =====
+参数: {'alpha': 0.26790962429201914, 'gamma': 2.2800181975345946, 'lr': 0.000245433364514182}
+lr 0.000245433364514182 gamma 2.2800181975345946 alpha 0.26790962429201914 TrainAcc2: 96.5054% TrainAcc2num: 359.0000testAcc2: 64.7619% testAcc2num: 68.0000
+Model: resnet101_18ch Best para: 4.5981
+Training time: 492.36s
+Trial 129 结果: 4.598095238095243
+
+===== Trial 130 开始 =====
+参数: {'alpha': 0.26432833559766045, 'gamma': 2.294620519213551, 'lr': 0.0006566153530016664}
+lr 0.0006566153530016664 gamma 2.294620519213551 alpha 0.26432833559766045 TrainAcc2: 84.2857% TrainAcc2num: 118.0000testAcc2: 72.7273% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 5.8909
+Training time: 491.06s
+Trial 130 结果: 5.890909090909093
+
+===== Trial 131 开始 =====
+参数: {'alpha': 0.26260758857008004, 'gamma': 2.439121066135181, 'lr': 0.0006528993476636358}
+lr 0.0006528993476636358 gamma 2.439121066135181 alpha 0.26260758857008004 TrainAcc2: 75.5814% TrainAcc2num: 65.0000testAcc2: 67.1429% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.2971
+Training time: 491.62s
+Trial 131 结果: 4.297142857142856
+
+===== Trial 132 开始 =====
+参数: {'alpha': 0.2643299399379803, 'gamma': 2.3118664176351937, 'lr': 0.000559782146124105}
+Model: resnet101_18ch Best para: 3.8626
+Training time: 491.78s
+Trial 132 结果: 3.8625641025641038
+
+===== Trial 133 开始 =====
+参数: {'alpha': 0.2736133688639879, 'gamma': 2.260141199326133, 'lr': 0.00011232663086737239}
+lr 0.00011232663086737239 gamma 2.260141199326133 alpha 0.2736133688639879 TrainAcc2: 68.4211% TrainAcc2num: 39.0000testAcc2: 80.7692% testAcc2num: 21.0000
+Model: resnet101_18ch Best para: 4.7815
+Training time: 492.19s
+Trial 133 结果: 4.781538461538463
+
+===== Trial 134 开始 =====
+参数: {'alpha': 0.2693007722271036, 'gamma': 2.3421827707243743, 'lr': 0.0006862831980865441}
+lr 0.0006862831980865441 gamma 2.3421827707243743 alpha 0.2693007722271036 TrainAcc2: 66.6667% TrainAcc2num: 24.0000testAcc2: 81.4815% testAcc2num: 22.0000
+Model: resnet101_18ch Best para: 5.1659
+Training time: 491.73s
+Trial 134 结果: 5.165925925925926
+
+===== Trial 135 开始 =====
+参数: {'alpha': 0.2662483167302929, 'gamma': 2.4014538943123203, 'lr': 0.0007511602001235709}
+lr 0.0007511602001235709 gamma 2.4014538943123203 alpha 0.2662483167302929 TrainAcc2: 68.1818% TrainAcc2num: 30.0000testAcc2: 70.8333% testAcc2num: 51.0000
+Model: resnet101_18ch Best para: 6.5450
+Training time: 494.29s
+Trial 135 结果: 6.5450000000000035
+
+===== Trial 136 开始 =====
+参数: {'alpha': 0.3742790691359691, 'gamma': 2.4080779246043025, 'lr': 0.0007297827192045195}
+Model: resnet101_18ch Best para: 3.0947
+Training time: 494.11s
+Trial 136 结果: 3.0947368421052635
+
+===== Trial 137 开始 =====
+参数: {'alpha': 0.27192478347535615, 'gamma': 2.373677908681325, 'lr': 0.000767412561417873}
+Model: resnet101_18ch Best para: 3.7846
+Training time: 494.10s
+Trial 137 结果: 3.7846153846153863
+
+===== Trial 138 开始 =====
+参数: {'alpha': 0.26654795137237625, 'gamma': 2.4628766744790784, 'lr': 0.0008074750317981319}
+Model: resnet101_18ch Best para: 2.7570
+Training time: 491.35s
+Trial 138 结果: 2.7570297029702995
+
+===== Trial 139 开始 =====
+参数: {'alpha': 0.27928510474966356, 'gamma': 2.298699011361746, 'lr': 0.0006935985122158379}
+lr 0.0006935985122158379 gamma 2.298699011361746 alpha 0.27928510474966356 TrainAcc2: 82.0755% TrainAcc2num: 87.0000testAcc2: 65.9574% testAcc2num: 62.0000
+Model: resnet101_18ch Best para: 4.9336
+Training time: 492.71s
+Trial 139 结果: 4.9336170212765955
+
+===== Trial 140 开始 =====
+参数: {'alpha': 0.2619795210223022, 'gamma': 2.3534557955191504, 'lr': 0.0009001802062627873}
+lr 0.0009001802062627873 gamma 2.3534557955191504 alpha 0.2619795210223022 TrainAcc2: 68.8889% TrainAcc2num: 62.0000testAcc2: 69.4915% testAcc2num: 41.0000
+Model: resnet101_18ch Best para: 4.7115
+Training time: 495.52s
+Trial 140 结果: 4.711525423728816
+
+===== Trial 141 开始 =====
+参数: {'alpha': 0.26512346167034856, 'gamma': 2.38455983237581, 'lr': 0.0006484777692843934}
+Model: resnet101_18ch Best para: 3.3600
+Training time: 492.70s
+Trial 141 结果: 3.36
+
+===== Trial 142 开始 =====
+参数: {'alpha': 0.2703000556514342, 'gamma': 2.194852724823589, 'lr': 0.0008623657640925335}
+lr 0.0008623657640925335 gamma 2.194852724823589 alpha 0.2703000556514342 TrainAcc2: 33.3333% TrainAcc2num: 3.0000testAcc2: 75.0000% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 4.5900
+Training time: 493.78s
+Trial 142 结果: 4.590000000000001
+
+===== Trial 143 开始 =====
+参数: {'alpha': 0.2601613718929384, 'gamma': 2.2670143300328265, 'lr': 0.0005914969396393817}
+lr 0.0005914969396393817 gamma 2.2670143300328265 alpha 0.2601613718929384 TrainAcc2: 74.1935% TrainAcc2num: 92.0000testAcc2: 85.7143% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 4.9886
+Training time: 495.77s
+Trial 143 结果: 4.988571428571428
+
+===== Trial 144 开始 =====
+参数: {'alpha': 0.27598303255380663, 'gamma': 2.2141727556838173, 'lr': 0.0005333681301958555}
+lr 0.0005333681301958555 gamma 2.2141727556838173 alpha 0.27598303255380663 TrainAcc2: 74.7126% TrainAcc2num: 130.0000testAcc2: 72.7273% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 5.8909
+Training time: 494.11s
+Trial 144 结果: 5.890909090909093
+
+===== Trial 145 开始 =====
+参数: {'alpha': 0.277076001855728, 'gamma': 2.327216803300983, 'lr': 0.0007297309958142214}
+lr 0.0007297309958142214 gamma 2.327216803300983 alpha 0.277076001855728 TrainAcc2: 74.1573% TrainAcc2num: 66.0000testAcc2: 70.0000% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 4.2000
+Training time: 494.09s
+Trial 145 结果: 4.2
+
+===== Trial 146 开始 =====
+参数: {'alpha': 0.27506819020563433, 'gamma': 2.2240149129189053, 'lr': 0.0005378521386926624}
+Model: resnet101_18ch Best para: 2.8800
+Training time: 493.12s
+Trial 146 结果: 2.8800000000000026
+
+===== Trial 147 开始 =====
+参数: {'alpha': 0.27182153965076983, 'gamma': 2.28594041859618, 'lr': 0.0006208975246043487}
+Model: resnet101_18ch Best para: 3.3750
+Training time: 491.32s
+Trial 147 结果: 3.375000000000003
+
+===== Trial 148 开始 =====
+参数: {'alpha': 0.2807887410842791, 'gamma': 2.244928570632613, 'lr': 0.0006716032008680562}
+lr 0.0006716032008680562 gamma 2.244928570632613 alpha 0.2807887410842791 TrainAcc2: 72.8814% TrainAcc2num: 86.0000testAcc2: 67.1429% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.2971
+Training time: 494.58s
+Trial 148 结果: 4.297142857142856
+
+===== Trial 149 开始 =====
+参数: {'alpha': 0.26801899651491345, 'gamma': 2.124638912120176, 'lr': 0.000755456140188159}
+Model: resnet101_18ch Best para: 2.6400
+Training time: 492.36s
+Trial 149 结果: 2.640000000000001
+
+===== Trial 150 开始 =====
+参数: {'alpha': 0.2833395975431041, 'gamma': 2.1975170273729003, 'lr': 0.00029692326630525285}
+lr 0.00029692326630525285 gamma 2.1975170273729003 alpha 0.2833395975431041 TrainAcc2: 78.1818% TrainAcc2num: 129.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 493.46s
+Trial 150 结果: 4.205
+
+===== Trial 151 开始 =====
+参数: {'alpha': 0.26658243763210765, 'gamma': 2.1784417702796355, 'lr': 0.0005564343624302958}
+lr 0.0005564343624302958 gamma 2.1784417702796355 alpha 0.26658243763210765 TrainAcc2: 92.8571% TrainAcc2num: 325.0000testAcc2: 62.9630% testAcc2num: 85.0000
+Model: resnet101_18ch Best para: 4.2185
+Training time: 494.45s
+Trial 151 结果: 4.218518518518524
+
+===== Trial 152 开始 =====
+参数: {'alpha': 0.2639366043279781, 'gamma': 2.2176004909877074, 'lr': 0.000588446805566941}
+lr 0.000588446805566941 gamma 2.2176004909877074 alpha 0.2639366043279781 TrainAcc2: 67.1642% TrainAcc2num: 45.0000testAcc2: 73.3333% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 5.0600
+Training time: 494.28s
+Trial 152 结果: 5.06
+
+===== Trial 153 开始 =====
+参数: {'alpha': 0.2765251551992746, 'gamma': 2.165023748451586, 'lr': 0.0005106853138404552}
+lr 0.0005106853138404552 gamma 2.165023748451586 alpha 0.2765251551992746 TrainAcc2: 73.2394% TrainAcc2num: 52.0000testAcc2: 64.2202% testAcc2num: 70.0000
+Model: resnet101_18ch Best para: 4.3541
+Training time: 492.41s
+Trial 153 结果: 4.354128440366978
+
+===== Trial 154 开始 =====
+参数: {'alpha': 0.27007088886294184, 'gamma': 2.3924928292725363, 'lr': 0.0006391732695068688}
+Model: resnet101_18ch Best para: 3.5433
+Training time: 495.66s
+Trial 154 结果: 3.5432520325203254
+
+===== Trial 155 开始 =====
+参数: {'alpha': 0.27870799666122104, 'gamma': 2.2488658412651796, 'lr': 0.00048774376746687126}
+lr 0.00048774376746687126 gamma 2.2488658412651796 alpha 0.27870799666122104 TrainAcc2: 74.4681% TrainAcc2num: 140.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 492.24s
+Trial 155 结果: 4.205
+
+===== Trial 156 开始 =====
+参数: {'alpha': 0.27347529502696943, 'gamma': 2.135363562833273, 'lr': 0.00017305330760493843}
+Model: resnet101_18ch Best para: 3.7884
+Training time: 492.62s
+Trial 156 结果: 3.7884210526315814
+
+===== Trial 157 开始 =====
+参数: {'alpha': 0.2857856929848508, 'gamma': 2.091853337386302, 'lr': 0.0007133483048414953}
+Model: resnet101_18ch Best para: 3.9186
+Training time: 494.61s
+Trial 157 结果: 3.9186440677966106
+
+===== Trial 158 开始 =====
+参数: {'alpha': 0.28110164973923984, 'gamma': 2.3078637478282635, 'lr': 0.00036544422905023476}
+lr 0.00036544422905023476 gamma 2.3078637478282635 alpha 0.28110164973923984 TrainAcc2: 73.7430% TrainAcc2num: 132.0000testAcc2: 74.0741% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 6.4296
+Training time: 491.81s
+Trial 158 结果: 6.42962962962963
+
+===== Trial 159 开始 =====
+参数: {'alpha': 0.280979673568612, 'gamma': 2.3154660333609796, 'lr': 0.0003622816837071669}
+lr 0.0003622816837071669 gamma 2.3154660333609796 alpha 0.280979673568612 TrainAcc2: 79.3296% TrainAcc2num: 142.0000testAcc2: 69.8113% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 4.3702
+Training time: 493.52s
+Trial 159 结果: 4.370188679245283
+
+===== Trial 160 开始 =====
+参数: {'alpha': 0.27529393651636913, 'gamma': 2.343887057487805, 'lr': 0.0004110023369770306}
+lr 0.0004110023369770306 gamma 2.343887057487805 alpha 0.27529393651636913 TrainAcc2: 80.9783% TrainAcc2num: 149.0000testAcc2: 64.8148% testAcc2num: 70.0000
+Model: resnet101_18ch Best para: 4.7704
+Training time: 494.04s
+Trial 160 结果: 4.770370370370372
+
+===== Trial 161 开始 =====
+参数: {'alpha': 0.3284583054402155, 'gamma': 2.2854559217454797, 'lr': 0.0006134390117693749}
+Model: resnet101_18ch Best para: 3.3329
+Training time: 492.03s
+Trial 161 结果: 3.3329032258064517
+
+===== Trial 162 开始 =====
+参数: {'alpha': 0.2825457958119769, 'gamma': 2.3613335512810063, 'lr': 0.0006662113037595546}
+lr 0.0006662113037595546 gamma 2.3613335512810063 alpha 0.2825457958119769 TrainAcc2: 70.1389% TrainAcc2num: 101.0000testAcc2: 64.5833% testAcc2num: 62.0000
+Model: resnet101_18ch Best para: 4.0817
+Training time: 491.85s
+Trial 162 结果: 4.081666666666671
+
+===== Trial 163 开始 =====
+参数: {'alpha': 0.2783456695669561, 'gamma': 2.210313650072487, 'lr': 0.0002197339500897959}
+lr 0.0002197339500897959 gamma 2.210313650072487 alpha 0.2783456695669561 TrainAcc2: 79.5918% TrainAcc2num: 156.0000testAcc2: 73.4694% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 5.5690
+Training time: 495.21s
+Trial 163 结果: 5.5689795918367375
+
+===== Trial 164 开始 =====
+参数: {'alpha': 0.27163838689231296, 'gamma': 2.268870220027174, 'lr': 0.0007970778804765302}
+lr 0.0007970778804765302 gamma 2.268870220027174 alpha 0.27163838689231296 TrainAcc2: 61.5385% TrainAcc2num: 24.0000testAcc2: 66.0194% testAcc2num: 68.0000
+Model: resnet101_18ch Best para: 5.4532
+Training time: 493.01s
+Trial 164 结果: 5.453203883495151
+
+===== Trial 165 开始 =====
+参数: {'alpha': 0.26809041378313025, 'gamma': 2.1514588274007855, 'lr': 0.00019263790763689593}
+lr 0.00019263790763689593 gamma 2.1514588274007855 alpha 0.26809041378313025 TrainAcc2: 82.1656% TrainAcc2num: 129.0000testAcc2: 67.1429% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.2971
+Training time: 494.15s
+Trial 165 结果: 4.297142857142856
+
+===== Trial 166 开始 =====
+参数: {'alpha': 0.2735558464278251, 'gamma': 2.235340167588725, 'lr': 0.0003435551117644775}
+Model: resnet101_18ch Best para: 3.5728
+Training time: 494.14s
+Trial 166 结果: 3.5728301886792453
+
+===== Trial 167 开始 =====
+参数: {'alpha': 0.2643499859626656, 'gamma': 2.1892608905537267, 'lr': 0.00027288605293208863}
+lr 0.00027288605293208863 gamma 2.1892608905537267 alpha 0.2643499859626656 TrainAcc2: 81.8182% TrainAcc2num: 117.0000testAcc2: 66.6667% testAcc2num: 54.0000
+Model: resnet101_18ch Best para: 4.6800
+Training time: 492.17s
+Trial 167 结果: 4.68
+
+===== Trial 168 开始 =====
+参数: {'alpha': 0.31840784673757744, 'gamma': 2.4291812227645844, 'lr': 0.0005719610742820658}
+lr 0.0005719610742820658 gamma 2.4291812227645844 alpha 0.31840784673757744 TrainAcc2: 63.4615% TrainAcc2num: 66.0000testAcc2: 70.1754% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 4.8702
+Training time: 491.32s
+Trial 168 结果: 4.870175438596491
+
+===== Trial 169 开始 =====
+参数: {'alpha': 0.2763553080011061, 'gamma': 2.30750663635073, 'lr': 0.0004361875006072131}
+lr 0.0004361875006072131 gamma 2.30750663635073 alpha 0.2763553080011061 TrainAcc2: 75.5245% TrainAcc2num: 108.0000testAcc2: 90.0000% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 5.7600
+Training time: 492.62s
+Trial 169 结果: 5.760000000000002
+
+===== Trial 170 开始 =====
+参数: {'alpha': 0.2766992130787881, 'gamma': 2.30883655324483, 'lr': 0.00038586201028439546}
+lr 0.00038586201028439546 gamma 2.30883655324483 alpha 0.2766992130787881 TrainAcc2: 71.4286% TrainAcc2num: 120.0000testAcc2: 68.4211% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 4.0642
+Training time: 492.64s
+Trial 170 结果: 4.064210526315792
+
+===== Trial 171 开始 =====
+参数: {'alpha': 0.2800407799610525, 'gamma': 2.331280367398539, 'lr': 0.0004484743390864003}
+Model: resnet101_18ch Best para: 3.2038
+Training time: 494.71s
+Trial 171 结果: 3.2038095238095248
+
+===== Trial 172 开始 =====
+参数: {'alpha': 0.2876195243736194, 'gamma': 2.2893814762281477, 'lr': 0.0004716716205042387}
+lr 0.0004716716205042387 gamma 2.2893814762281477 alpha 0.2876195243736194 TrainAcc2: 70.6587% TrainAcc2num: 118.0000testAcc2: 70.9091% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 5.0345
+Training time: 492.02s
+Trial 172 结果: 5.034545454545457
+
+===== Trial 173 开始 =====
+参数: {'alpha': 0.28471298195762823, 'gamma': 2.368672606035125, 'lr': 0.0005343031563434477}
+Model: resnet101_18ch Best para: 3.8000
+Training time: 493.47s
+Trial 173 结果: 3.800000000000001
+
+===== Trial 174 开始 =====
+参数: {'alpha': 0.27010478111684877, 'gamma': 2.2685658906824457, 'lr': 0.0007103400089492006}
+lr 0.0007103400089492006 gamma 2.2685658906824457 alpha 0.27010478111684877 TrainAcc2: 75.4237% TrainAcc2num: 89.0000testAcc2: 68.4211% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 5.4189
+Training time: 492.26s
+Trial 174 结果: 5.418947368421056
+
+===== Trial 175 开始 =====
+参数: {'alpha': 0.27491343055508666, 'gamma': 2.2390735573604656, 'lr': 0.0006045320719304849}
+Model: resnet101_18ch Best para: 3.3329
+Training time: 492.81s
+Trial 175 结果: 3.3329032258064517
+
+===== Trial 176 开始 =====
+参数: {'alpha': 0.26260488272668786, 'gamma': 2.3027037843907276, 'lr': 0.00043271243555369345}
+lr 0.00043271243555369345 gamma 2.3027037843907276 alpha 0.26260488272668786 TrainAcc2: 87.5706% TrainAcc2num: 155.0000testAcc2: 75.0000% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 5.6100
+Training time: 495.01s
+Trial 176 结果: 5.610000000000001
+
+===== Trial 177 开始 =====
+参数: {'alpha': 0.2783121114754849, 'gamma': 2.40176712002343, 'lr': 0.0006883071802927706}
+lr 0.0006883071802927706 gamma 2.40176712002343 alpha 0.2783121114754849 TrainAcc2: 77.0270% TrainAcc2num: 57.0000testAcc2: 72.7273% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 7.0691
+Training time: 492.78s
+Trial 177 结果: 7.069090909090912
+
+===== Trial 178 开始 =====
+参数: {'alpha': 0.28149637144434936, 'gamma': 2.4075643463127476, 'lr': 0.0006767316725890635}
+lr 0.0006767316725890635 gamma 2.4075643463127476 alpha 0.28149637144434936 TrainAcc2: 63.4409% TrainAcc2num: 59.0000testAcc2: 75.6757% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.9492
+Training time: 491.46s
+Trial 178 结果: 4.949189189189191
+
+===== Trial 179 开始 =====
+参数: {'alpha': 0.278900190085065, 'gamma': 2.3538036193577527, 'lr': 0.0007695158315625273}
+lr 0.0007695158315625273 gamma 2.3538036193577527 alpha 0.278900190085065 TrainAcc2: 69.3548% TrainAcc2num: 86.0000testAcc2: 66.6667% testAcc2num: 54.0000
+Model: resnet101_18ch Best para: 4.6800
+Training time: 493.06s
+Trial 179 结果: 4.68
+
+===== Trial 180 开始 =====
+参数: {'alpha': 0.2768624292239779, 'gamma': 2.476752511683847, 'lr': 0.0006486098287789247}
+Model: resnet101_18ch Best para: 3.9932
+Training time: 493.06s
+Trial 180 结果: 3.9932374100719454
+
+===== Trial 181 开始 =====
+参数: {'alpha': 0.26693918384555104, 'gamma': 2.3347459050768338, 'lr': 0.0007037894092203894}
+Model: resnet101_18ch Best para: 3.8125
+Training time: 492.89s
+Trial 181 结果: 3.812530120481929
+
+===== Trial 182 开始 =====
+参数: {'alpha': 0.27349182864419436, 'gamma': 2.3983685523643823, 'lr': 0.0008378548818802424}
+lr 0.0008378548818802424 gamma 2.3983685523643823 alpha 0.27349182864419436 TrainAcc2: 73.5849% TrainAcc2num: 39.0000testAcc2: 79.4118% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 5.7812
+Training time: 492.40s
+Trial 182 结果: 5.781176470588235
+
+===== Trial 183 开始 =====
+参数: {'alpha': 0.2728079011989003, 'gamma': 2.3852263756750705, 'lr': 0.0008508413939906682}
+Model: resnet101_18ch Best para: 2.6400
+Training time: 493.97s
+Trial 183 结果: 2.640000000000001
+
+===== Trial 184 开始 =====
+参数: {'alpha': 0.2752117790753647, 'gamma': 2.445751877808835, 'lr': 0.0007355983661556814}
+lr 0.0007355983661556814 gamma 2.445751877808835 alpha 0.2752117790753647 TrainAcc2: 72.4638% TrainAcc2num: 50.0000testAcc2: 76.4706% testAcc2num: 26.0000
+Model: resnet101_18ch Best para: 4.8024
+Training time: 493.42s
+Trial 184 结果: 4.80235294117647
+
+===== Trial 185 开始 =====
+参数: {'alpha': 0.28310351450863847, 'gamma': 2.4109214835876984, 'lr': 0.0008127632176505876}
+lr 0.0008127632176505876 gamma 2.4109214835876984 alpha 0.28310351450863847 TrainAcc2: 52.6316% TrainAcc2num: 10.0000testAcc2: 81.8182% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 4.2873
+Training time: 495.19s
+Trial 185 结果: 4.287272727272729
+
+===== Trial 186 开始 =====
+参数: {'alpha': 0.27782212030436093, 'gamma': 2.3225260835848083, 'lr': 0.0003237238003365951}
+Model: resnet101_18ch Best para: 3.2038
+Training time: 494.73s
+Trial 186 结果: 3.2038095238095248
+
+===== Trial 187 开始 =====
+参数: {'alpha': 0.27130333554363745, 'gamma': 2.4188107837173463, 'lr': 0.00036793581580573927}
+lr 0.00036793581580573927 gamma 2.4188107837173463 alpha 0.27130333554363745 TrainAcc2: 64.2276% TrainAcc2num: 79.0000testAcc2: 88.2353% testAcc2num: 15.0000
+Model: resnet101_18ch Best para: 4.5353
+Training time: 493.52s
+Trial 187 结果: 4.535294117647059
+
+===== Trial 188 开始 =====
+参数: {'alpha': 0.27363367601770505, 'gamma': 2.3830313794530156, 'lr': 0.0009643144877403999}
+lr 0.0009643144877403999 gamma 2.3830313794530156 alpha 0.27363367601770505 TrainAcc2: 73.1481% TrainAcc2num: 79.0000testAcc2: 70.4918% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 5.3715
+Training time: 495.41s
+Trial 188 结果: 5.3714754098360675
+
+===== Trial 189 开始 =====
+参数: {'alpha': 0.27991974787260726, 'gamma': 2.3605736181216925, 'lr': 0.000409031394920982}
+lr 0.000409031394920982 gamma 2.3605736181216925 alpha 0.27991974787260726 TrainAcc2: 76.3636% TrainAcc2num: 168.0000testAcc2: 64.8936% testAcc2num: 61.0000
+Model: resnet101_18ch Best para: 4.2051
+Training time: 492.58s
+Trial 189 结果: 4.205106382978725
+
+===== Trial 190 开始 =====
+参数: {'alpha': 0.2769183232571366, 'gamma': 2.3942949867266408, 'lr': 0.0007548910146398414}
+lr 0.0007548910146398414 gamma 2.3942949867266408 alpha 0.2769183232571366 TrainAcc2: 73.8636% TrainAcc2num: 65.0000testAcc2: 68.9655% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 4.3862
+Training time: 495.02s
+Trial 190 结果: 4.386206896551728
+
+===== Trial 191 开始 =====
+参数: {'alpha': 0.26881782295887846, 'gamma': 2.217042119709894, 'lr': 0.0006529530355103356}
+lr 0.0006529530355103356 gamma 2.217042119709894 alpha 0.26881782295887846 TrainAcc2: 70.4225% TrainAcc2num: 50.0000testAcc2: 72.3404% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.8757
+Training time: 492.42s
+Trial 191 结果: 4.875744680851067
+
+===== Trial 192 开始 =====
+参数: {'alpha': 0.2648573663704289, 'gamma': 2.1661188385608026, 'lr': 0.0006318417408565939}
+lr 0.0006318417408565939 gamma 2.1661188385608026 alpha 0.2648573663704289 TrainAcc2: 76.5766% TrainAcc2num: 85.0000testAcc2: 75.6757% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.9492
+Training time: 491.60s
+Trial 192 结果: 4.949189189189191
+
+===== Trial 193 开始 =====
+参数: {'alpha': 0.2709367504052642, 'gamma': 2.298179556623643, 'lr': 0.0006890989011341459}
+Model: resnet101_18ch Best para: 2.2552
+Training time: 491.96s
+Trial 193 结果: 2.255217391304349
+
+===== Trial 194 开始 =====
+参数: {'alpha': 0.3237628149435524, 'gamma': 2.1947845675687354, 'lr': 0.0005737037183561699}
+Model: resnet101_18ch Best para: 3.2744
+Training time: 492.84s
+Trial 194 结果: 3.2744186046511663
+
+===== Trial 195 开始 =====
+参数: {'alpha': 0.2668837031548025, 'gamma': 2.266078010622044, 'lr': 0.00011693668023857584}
+Model: resnet101_18ch Best para: 3.8919
+Training time: 494.48s
+Trial 195 结果: 3.891851851851855
+
+===== Trial 196 开始 =====
+参数: {'alpha': 0.28164252915456184, 'gamma': 2.249880593579005, 'lr': 0.0003022444752795084}
+Model: resnet101_18ch Best para: 3.3750
+Training time: 495.81s
+Trial 196 结果: 3.375000000000003
+
+===== Trial 197 开始 =====
+参数: {'alpha': 0.2753636358206731, 'gamma': 2.345307251314966, 'lr': 0.0004927720114241514}
+Model: resnet101_18ch Best para: 2.9964
+Training time: 491.42s
+Trial 197 结果: 2.9963909774436095
+
+===== Trial 198 开始 =====
+参数: {'alpha': 0.2615715527198135, 'gamma': 2.1778624625002454, 'lr': 0.000775807620312571}
+lr 0.000775807620312571 gamma 2.1778624625002454 alpha 0.2615715527198135 TrainAcc2: 73.0435% TrainAcc2num: 84.0000testAcc2: 82.6087% testAcc2num: 19.0000
+Model: resnet101_18ch Best para: 4.6757
+Training time: 491.97s
+Trial 198 结果: 4.675652173913044
+
+===== Trial 199 开始 =====
+参数: {'alpha': 0.2725000902705459, 'gamma': 2.110677919777368, 'lr': 0.00013755975931604}
+lr 0.00013755975931604 gamma 2.110677919777368 alpha 0.2725000902705459 TrainAcc2: 81.9383% TrainAcc2num: 186.0000testAcc2: 69.8113% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 4.3702
+Training time: 494.05s
+Trial 199 结果: 4.370188679245283
+
+===== Trial 200 开始 =====
+参数: {'alpha': 0.308846440508778, 'gamma': 2.058262008702393, 'lr': 0.000539860277818177}
+Model: resnet101_18ch Best para: 3.4309
+Training time: 492.40s
+Trial 200 结果: 3.4309090909090925
+
+===== Trial 201 开始 =====
+参数: {'alpha': 0.26394120100092466, 'gamma': 1.6306520437761198, 'lr': 0.0007352129717807654}
+Model: resnet101_18ch Best para: 3.8626
+Training time: 495.02s
+Trial 201 结果: 3.8625641025641038
+
+===== Trial 202 开始 =====
+参数: {'alpha': 0.26157667165098286, 'gamma': 2.3115491163199606, 'lr': 0.0006109461795080312}
+lr 0.0006109461795080312 gamma 2.3115491163199606 alpha 0.26157667165098286 TrainAcc2: 79.4118% TrainAcc2num: 108.0000testAcc2: 69.0909% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 4.2145
+Training time: 493.65s
+Trial 202 结果: 4.214545454545457
+
+===== Trial 203 开始 =====
+参数: {'alpha': 0.2665339778836486, 'gamma': 2.3204372952654606, 'lr': 0.00044779954245292435}
+lr 0.00044779954245292435 gamma 2.3204372952654606 alpha 0.2665339778836486 TrainAcc2: 82.3529% TrainAcc2num: 154.0000testAcc2: 68.6567% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 4.9021
+Training time: 493.60s
+Trial 203 结果: 4.902089552238807
+
+===== Trial 204 开始 =====
+参数: {'alpha': 0.26967504666742276, 'gamma': 2.289604690035325, 'lr': 0.00010982196940287009}
+lr 0.00010982196940287009 gamma 2.289604690035325 alpha 0.26967504666742276 TrainAcc2: 77.7778% TrainAcc2num: 112.0000testAcc2: 73.0769% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 5.7292
+Training time: 493.19s
+Trial 204 结果: 5.729230769230769
+
+===== Trial 205 开始 =====
+参数: {'alpha': 0.2689347256327091, 'gamma': 2.2778387205867867, 'lr': 0.00010405638907862172}
+lr 0.00010405638907862172 gamma 2.2778387205867867 alpha 0.2689347256327091 TrainAcc2: 89.9038% TrainAcc2num: 187.0000testAcc2: 65.5556% testAcc2num: 59.0000
+Model: resnet101_18ch Best para: 4.4578
+Training time: 495.17s
+Trial 205 结果: 4.45777777777778
+
+===== Trial 206 开始 =====
+参数: {'alpha': 0.2786803237628635, 'gamma': 2.2299706215147745, 'lr': 0.0001290266999429859}
+Model: resnet101_18ch Best para: 3.7216
+Training time: 493.43s
+Trial 206 结果: 3.7216438356164385
+
+===== Trial 207 开始 =====
+参数: {'alpha': 0.26971186642521, 'gamma': 2.3737249577424144, 'lr': 0.0001152446410429802}
+lr 0.0001152446410429802 gamma 2.3737249577424144 alpha 0.26971186642521 TrainAcc2: 77.2152% TrainAcc2num: 61.0000testAcc2: 69.8113% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 4.3702
+Training time: 494.48s
+Trial 207 结果: 4.370188679245283
+
+===== Trial 208 开始 =====
+参数: {'alpha': 0.2741257161358586, 'gamma': 1.8957126493595746, 'lr': 0.00010655098361053418}
+lr 0.00010655098361053418 gamma 1.8957126493595746 alpha 0.2741257161358586 TrainAcc2: 78.9474% TrainAcc2num: 60.0000testAcc2: 75.0000% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 5.1000
+Training time: 492.77s
+Trial 208 结果: 5.100000000000001
+
+===== Trial 209 开始 =====
+参数: {'alpha': 0.2768702273266074, 'gamma': 2.1396076538826807, 'lr': 0.0006689825342976671}
+Model: resnet101_18ch Best para: 3.2933
+Training time: 493.47s
+Trial 209 结果: 3.2933333333333334
+
+===== Trial 210 开始 =====
+参数: {'alpha': 0.27231566877169044, 'gamma': 2.20269891080379, 'lr': 0.0007008599619185052}
+Model: resnet101_18ch Best para: 3.8133
+Training time: 493.84s
+Trial 210 结果: 3.8133333333333335
+
+===== Trial 211 开始 =====
+参数: {'alpha': 0.2626670933428402, 'gamma': 2.2981105603175216, 'lr': 0.0005188606608326567}
+Model: resnet101_18ch Best para: 2.6903
+Training time: 490.74s
+Trial 211 结果: 2.690303030303032
+
+===== Trial 212 开始 =====
+参数: {'alpha': 0.2657546453937621, 'gamma': 2.2857298892028224, 'lr': 0.00042882461744035016}
+lr 0.00042882461744035016 gamma 2.2857298892028224 alpha 0.2657546453937621 TrainAcc2: 77.1186% TrainAcc2num: 91.0000testAcc2: 75.0000% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 6.1200
+Training time: 492.88s
+Trial 212 结果: 6.120000000000001
+
+===== Trial 213 开始 =====
+参数: {'alpha': 0.265746867024431, 'gamma': 2.284008678109001, 'lr': 0.00083496849938842}
+Model: resnet101_18ch Best para: 3.2272
+Training time: 492.21s
+Trial 213 结果: 3.2272340425531922
+
+===== Trial 214 开始 =====
+参数: {'alpha': 0.2701198174213075, 'gamma': 2.257963833061118, 'lr': 0.0003446738591828864}
+Model: resnet101_18ch Best para: 3.8605
+Training time: 494.46s
+Trial 214 结果: 3.8604545454545467
+
+===== Trial 215 开始 =====
+参数: {'alpha': 0.2804086460019977, 'gamma': 2.344416792226997, 'lr': 0.0006335873389915907}
+Model: resnet101_18ch Best para: 2.8896
+Training time: 494.46s
+Trial 215 结果: 2.889629629629633
+
+===== Trial 216 开始 =====
+参数: {'alpha': 0.2679589450956664, 'gamma': 2.324531803116549, 'lr': 0.00012222695041211708}
+lr 0.00012222695041211708 gamma 2.324531803116549 alpha 0.2679589450956664 TrainAcc2: 89.4515% TrainAcc2num: 212.0000testAcc2: 68.1159% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.7545
+Training time: 494.58s
+Trial 216 结果: 4.754492753623191
+
+===== Trial 217 开始 =====
+参数: {'alpha': 0.27549697118178157, 'gamma': 2.248657383145912, 'lr': 0.0005940159930454389}
+lr 0.0005940159930454389 gamma 2.248657383145912 alpha 0.27549697118178157 TrainAcc2: 80.7692% TrainAcc2num: 42.0000testAcc2: 79.1667% testAcc2num: 19.0000
+Model: resnet101_18ch Best para: 4.0217
+Training time: 490.75s
+Trial 217 结果: 4.0216666666666665
+
+===== Trial 218 开始 =====
+参数: {'alpha': 0.36242861831013345, 'gamma': 1.8071026633252565, 'lr': 0.00010956980642333549}
+lr 0.00010956980642333549 gamma 1.8071026633252565 alpha 0.36242861831013345 TrainAcc2: 70.2290% TrainAcc2num: 184.0000testAcc2: 66.6667% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 4.5067
+Training time: 494.47s
+Trial 218 结果: 4.506666666666667
+
+===== Trial 219 开始 =====
+参数: {'alpha': 0.284826287631307, 'gamma': 2.281443639823363, 'lr': 0.00038920796545446646}
+Model: resnet101_18ch Best para: 3.6400
+Training time: 492.98s
+Trial 219 结果: 3.64
+
+===== Trial 220 开始 =====
+参数: {'alpha': 0.26561209122418755, 'gamma': 2.2083783329207445, 'lr': 0.0007358719307351237}
+lr 0.0007358719307351237 gamma 2.2083783329207445 alpha 0.26561209122418755 TrainAcc2: 79.8701% TrainAcc2num: 123.0000testAcc2: 68.0000% testAcc2num: 51.0000
+Model: resnet101_18ch Best para: 5.1000
+Training time: 494.38s
+Trial 220 结果: 5.100000000000005
+
+===== Trial 221 开始 =====
+参数: {'alpha': 0.26359491080744585, 'gamma': 2.3018276097818475, 'lr': 0.000435140405323792}
+lr 0.000435140405323792 gamma 2.3018276097818475 alpha 0.26359491080744585 TrainAcc2: 80.0000% TrainAcc2num: 172.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 492.35s
+Trial 221 结果: 4.205
+
+===== Trial 222 开始 =====
+参数: {'alpha': 0.26268422030643196, 'gamma': 2.3061938970174336, 'lr': 0.0004105473493820315}
+Model: resnet101_18ch Best para: 2.9250
+Training time: 492.90s
+Trial 222 结果: 2.9250000000000025
+
+===== Trial 223 开始 =====
+参数: {'alpha': 0.2685892900340054, 'gamma': 2.3280080521750035, 'lr': 0.0004716696053008486}
+lr 0.0004716696053008486 gamma 2.3280080521750035 alpha 0.2685892900340054 TrainAcc2: 85.8108% TrainAcc2num: 127.0000testAcc2: 67.3684% testAcc2num: 64.0000
+Model: resnet101_18ch Best para: 5.9958
+Training time: 493.70s
+Trial 223 结果: 5.995789473684212
+
+===== Trial 224 开始 =====
+参数: {'alpha': 0.2716346547057098, 'gamma': 2.355011368092379, 'lr': 0.00044843756622232845}
+Model: resnet101_18ch Best para: 3.2038
+Training time: 493.19s
+Trial 224 结果: 3.2038095238095248
+
+===== Trial 225 开始 =====
+参数: {'alpha': 0.26817178830794147, 'gamma': 2.3252642791004985, 'lr': 0.00048000638615547906}
+Model: resnet101_18ch Best para: 3.4456
+Training time: 493.48s
+Trial 225 结果: 3.4456179775280926
+
+===== Trial 226 开始 =====
+参数: {'alpha': 0.2793732263457952, 'gamma': 2.390376017325582, 'lr': 0.0004637709675268348}
+Model: resnet101_18ch Best para: 3.7846
+Training time: 492.24s
+Trial 226 结果: 3.7846153846153863
+
+===== Trial 227 开始 =====
+参数: {'alpha': 0.2738541141406933, 'gamma': 2.22876444118235, 'lr': 0.0005049804934715123}
+lr 0.0005049804934715123 gamma 2.22876444118235 alpha 0.2738541141406933 TrainAcc2: 69.2982% TrainAcc2num: 79.0000testAcc2: 75.0000% testAcc2num: 24.0000
+Model: resnet101_18ch Best para: 4.0800
+Training time: 492.52s
+Trial 227 结果: 4.080000000000001
+
+===== Trial 228 开始 =====
+参数: {'alpha': 0.27040242231179407, 'gamma': 2.3386908720200785, 'lr': 0.00011274780530748164}
+Model: resnet101_18ch Best para: 3.3756
+Training time: 494.24s
+Trial 228 结果: 3.3755555555555565
+
+===== Trial 229 开始 =====
+参数: {'alpha': 0.27770257955740063, 'gamma': 2.26698118230699, 'lr': 0.0005479096994643044}
+lr 0.0005479096994643044 gamma 2.26698118230699 alpha 0.27770257955740063 TrainAcc2: 83.8346% TrainAcc2num: 223.0000testAcc2: 71.7391% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 4.5339
+Training time: 495.43s
+Trial 229 结果: 4.533913043478261
+
+===== Trial 230 开始 =====
+参数: {'alpha': 0.26749485448511096, 'gamma': 2.429054480868769, 'lr': 0.0008000156148960842}
+lr 0.0008000156148960842 gamma 2.429054480868769 alpha 0.26749485448511096 TrainAcc2: 74.6667% TrainAcc2num: 56.0000testAcc2: 73.1707% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 4.5512
+Training time: 491.35s
+Trial 230 结果: 4.551219512195122
+
+===== Trial 231 开始 =====
+参数: {'alpha': 0.2651810461900103, 'gamma': 2.3009249803840586, 'lr': 0.00043041050038497157}
+Model: resnet101_18ch Best para: 3.2478
+Training time: 494.61s
+Trial 231 结果: 3.247826086956524
+
+===== Trial 232 开始 =====
+参数: {'alpha': 0.26196438717792847, 'gamma': 2.3593365609116588, 'lr': 0.0004579510429162957}
+Model: resnet101_18ch Best para: 2.1972
+Training time: 492.37s
+Trial 232 结果: 2.197241379310348
+
+===== Trial 233 开始 =====
+参数: {'alpha': 0.26608121772535565, 'gamma': 2.160075773052901, 'lr': 0.00041162523533498115}
+Model: resnet101_18ch Best para: 3.3441
+Training time: 489.74s
+Trial 233 结果: 3.3440506329113946
+
+===== Trial 234 开始 =====
+参数: {'alpha': 0.2822680037421237, 'gamma': 2.3225603308514295, 'lr': 0.00043296372817653857}
+Model: resnet101_18ch Best para: 3.8626
+Training time: 491.28s
+Trial 234 结果: 3.8625641025641038
+
+===== Trial 235 开始 =====
+参数: {'alpha': 0.26010692695173193, 'gamma': 2.284655282343136, 'lr': 0.0006692738543898426}
+Model: resnet101_18ch Best para: 3.7033
+Training time: 492.27s
+Trial 235 结果: 3.703333333333333
+
+===== Trial 236 开始 =====
+参数: {'alpha': 0.2749429345858374, 'gamma': 2.375791397589086, 'lr': 0.0006937334623384545}
+lr 0.0006937334623384545 gamma 2.375791397589086 alpha 0.2749429345858374 TrainAcc2: 78.1818% TrainAcc2num: 86.0000testAcc2: 77.7778% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 6.9222
+Training time: 493.09s
+Trial 236 结果: 6.922222222222224
+
+===== Trial 237 开始 =====
+参数: {'alpha': 0.27513982523348, 'gamma': 2.3998670367908934, 'lr': 0.0006994185669563941}
+lr 0.0006994185669563941 gamma 2.3998670367908934 alpha 0.27513982523348 TrainAcc2: 74.4000% TrainAcc2num: 93.0000testAcc2: 70.9091% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 5.0345
+Training time: 491.69s
+Trial 237 结果: 5.034545454545457
+
+===== Trial 238 开始 =====
+参数: {'alpha': 0.27272669711290964, 'gamma': 2.376563400789063, 'lr': 0.000763888676699495}
+lr 0.000763888676699495 gamma 2.376563400789063 alpha 0.27272669711290964 TrainAcc2: 62.2642% TrainAcc2num: 33.0000testAcc2: 94.7368% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 6.6126
+Training time: 493.59s
+Trial 238 结果: 6.612631578947369
+
+===== Trial 239 开始 =====
+参数: {'alpha': 0.27284530450049627, 'gamma': 2.3713441441574594, 'lr': 0.0007457539497499826}
+lr 0.0007457539497499826 gamma 2.3713441441574594 alpha 0.27284530450049627 TrainAcc2: 70.2970% TrainAcc2num: 71.0000testAcc2: 68.9655% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 4.3862
+Training time: 491.18s
+Trial 239 结果: 4.386206896551728
+
+===== Trial 240 开始 =====
+参数: {'alpha': 0.2767140709697298, 'gamma': 2.378417259117654, 'lr': 0.0007774436276059359}
+Model: resnet101_18ch Best para: 2.2500
+Training time: 491.18s
+Trial 240 结果: 2.2500000000000018
+
+===== Trial 241 开始 =====
+参数: {'alpha': 0.27093714085959436, 'gamma': 2.349204111342328, 'lr': 0.0007109195346673017}
+lr 0.0007109195346673017 gamma 2.349204111342328 alpha 0.27093714085959436 TrainAcc2: 72.8571% TrainAcc2num: 51.0000testAcc2: 80.0000% testAcc2num: 20.0000
+Model: resnet101_18ch Best para: 4.4000
+Training time: 493.04s
+Trial 241 结果: 4.400000000000002
+
+===== Trial 242 开始 =====
+参数: {'alpha': 0.27885972429921235, 'gamma': 2.4126630305632486, 'lr': 0.0006820887213376972}
+Model: resnet101_18ch Best para: 3.8609
+Training time: 493.85s
+Trial 242 结果: 3.8609090909090935
+
+===== Trial 243 开始 =====
+参数: {'alpha': 0.27326971527220134, 'gamma': 2.445519442687112, 'lr': 0.0006344019113158629}
+lr 0.0006344019113158629 gamma 2.445519442687112 alpha 0.27326971527220134 TrainAcc2: 68.6275% TrainAcc2num: 70.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 491.93s
+Trial 243 结果: 4.391578947368421
+
+===== Trial 244 开始 =====
+参数: {'alpha': 0.275669350816691, 'gamma': 2.1807724810470086, 'lr': 0.0007283978673056806}
+Model: resnet101_18ch Best para: 3.4320
+Training time: 492.42s
+Trial 244 结果: 3.432000000000003
+
+===== Trial 245 开始 =====
+参数: {'alpha': 0.269187407478098, 'gamma': 2.3776055071655176, 'lr': 0.000656855694406503}
+lr 0.000656855694406503 gamma 2.3776055071655176 alpha 0.269187407478098 TrainAcc2: 71.7391% TrainAcc2num: 66.0000testAcc2: 72.9167% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 5.2208
+Training time: 492.49s
+Trial 245 结果: 5.220833333333333
+
+===== Trial 246 开始 =====
+参数: {'alpha': 0.2789053917377662, 'gamma': 2.397850129535613, 'lr': 0.0007786600989998799}
+Model: resnet101_18ch Best para: 2.6433
+Training time: 491.12s
+Trial 246 结果: 2.643296703296705
+
+===== Trial 247 开始 =====
+参数: {'alpha': 0.27390694058883785, 'gamma': 2.331543386189817, 'lr': 0.0008879281244669382}
+Model: resnet101_18ch Best para: 3.1138
+Training time: 491.83s
+Trial 247 结果: 3.1138461538461604
+
+===== Trial 248 开始 =====
+参数: {'alpha': 0.2812408038758536, 'gamma': 2.24288003175896, 'lr': 0.0005644828749701307}
+lr 0.0005644828749701307 gamma 2.24288003175896 alpha 0.2812408038758536 TrainAcc2: 72.5806% TrainAcc2num: 90.0000testAcc2: 81.2500% testAcc2num: 26.0000
+Model: resnet101_18ch Best para: 6.0450
+Training time: 492.40s
+Trial 248 结果: 6.045000000000001
+
+===== Trial 249 开始 =====
+参数: {'alpha': 0.2823851250928181, 'gamma': 2.245212548374296, 'lr': 0.0006064507888331145}
+lr 0.0006064507888331145 gamma 2.245212548374296 alpha 0.2823851250928181 TrainAcc2: 81.9048% TrainAcc2num: 86.0000testAcc2: 68.3544% testAcc2num: 54.0000
+Model: resnet101_18ch Best para: 5.5914
+Training time: 494.45s
+Trial 249 结果: 5.591392405063292
+
+===== Trial 250 开始 =====
+参数: {'alpha': 0.3273120743187283, 'gamma': 2.360402062737563, 'lr': 0.0005708706949042916}
+lr 0.0005708706949042916 gamma 2.360402062737563 alpha 0.3273120743187283 TrainAcc2: 84.4633% TrainAcc2num: 299.0000testAcc2: 66.6667% testAcc2num: 50.0000
+Model: resnet101_18ch Best para: 4.3333
+Training time: 493.89s
+Trial 250 结果: 4.333333333333334
+
+===== Trial 251 开始 =====
+参数: {'alpha': 0.2793279517865582, 'gamma': 2.2676193410958203, 'lr': 0.0008267080142631399}
+lr 0.0008267080142631399 gamma 2.2676193410958203 alpha 0.2793279517865582 TrainAcc2: 73.3333% TrainAcc2num: 66.0000testAcc2: 78.1250% testAcc2num: 25.0000
+Model: resnet101_18ch Best para: 5.0313
+Training time: 491.23s
+Trial 251 结果: 5.031250000000001
+
+===== Trial 252 开始 =====
+参数: {'alpha': 0.2999720443519199, 'gamma': 2.3420760744195848, 'lr': 0.0006889949601677975}
+lr 0.0006889949601677975 gamma 2.3420760744195848 alpha 0.2999720443519199 TrainAcc2: 75.9690% TrainAcc2num: 98.0000testAcc2: 67.7419% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 4.0916
+Training time: 490.61s
+Trial 252 结果: 4.091612903225807
+
+===== Trial 253 开始 =====
+参数: {'alpha': 0.28119564981809836, 'gamma': 2.3189007195827327, 'lr': 0.0006480137750993723}
+lr 0.0006480137750993723 gamma 2.3189007195827327 alpha 0.28119564981809836 TrainAcc2: 71.9424% TrainAcc2num: 100.0000testAcc2: 75.0000% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 5.1000
+Training time: 492.79s
+Trial 253 结果: 5.100000000000001
+
+===== Trial 254 开始 =====
+参数: {'alpha': 0.27700698976185245, 'gamma': 2.221241726333036, 'lr': 0.0007556227173900828}
+lr 0.0007556227173900828 gamma 2.221241726333036 alpha 0.27700698976185245 TrainAcc2: 67.5325% TrainAcc2num: 52.0000testAcc2: 73.0769% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 5.7292
+Training time: 493.28s
+Trial 254 结果: 5.729230769230769
+
+===== Trial 255 开始 =====
+参数: {'alpha': 0.2839802125719086, 'gamma': 1.7122705742851647, 'lr': 0.0007110759447399871}
+Model: resnet101_18ch Best para: 3.5728
+Training time: 491.68s
+Trial 255 结果: 3.5728301886792453
+
+===== Trial 256 开始 =====
+参数: {'alpha': 0.27150581049938427, 'gamma': 2.291727349987442, 'lr': 0.00016430661483895681}
+Model: resnet101_18ch Best para: 3.5475
+Training time: 492.94s
+Trial 256 结果: 3.547500000000001
+
+===== Trial 257 开始 =====
+参数: {'alpha': 0.2752543415816933, 'gamma': 2.4137537136570986, 'lr': 0.0005854411399812137}
+Model: resnet101_18ch Best para: 3.8125
+Training time: 491.68s
+Trial 257 结果: 3.812530120481929
+
+===== Trial 258 开始 =====
+参数: {'alpha': 0.2767377549010017, 'gamma': 2.2556512410763636, 'lr': 0.0006752822364026343}
+lr 0.0006752822364026343 gamma 2.2556512410763636 alpha 0.2767377549010017 TrainAcc2: 75.0000% TrainAcc2num: 87.0000testAcc2: 68.0000% testAcc2num: 51.0000
+Model: resnet101_18ch Best para: 5.1000
+Training time: 494.00s
+Trial 258 结果: 5.100000000000005
+
+===== Trial 259 开始 =====
+参数: {'alpha': 0.28689918266437714, 'gamma': 2.377899861903976, 'lr': 0.0006294387857745206}
+Model: resnet101_18ch Best para: 3.2101
+Training time: 490.59s
+Trial 259 结果: 3.210107526881722
+
+===== Trial 260 开始 =====
+参数: {'alpha': 0.28060058000973365, 'gamma': 2.2349820619025267, 'lr': 0.0008044262674073724}
+Model: resnet101_18ch Best para: 3.3756
+Training time: 492.58s
+Trial 260 结果: 3.3755555555555565
+
+===== Trial 261 开始 =====
+参数: {'alpha': 0.2688398944556067, 'gamma': 2.2011764808141447, 'lr': 0.00037482441442091355}
+lr 0.00037482441442091355 gamma 2.2011764808141447 alpha 0.2688398944556067 TrainAcc2: 69.1589% TrainAcc2num: 74.0000testAcc2: 76.6667% testAcc2num: 23.0000
+Model: resnet101_18ch Best para: 4.2933
+Training time: 490.65s
+Trial 261 结果: 4.293333333333336
+
+===== Trial 262 开始 =====
+参数: {'alpha': 0.27416810333260566, 'gamma': 2.1500255418032097, 'lr': 0.0007426960970773432}
+Model: resnet101_18ch Best para: 2.3621
+Training time: 492.04s
+Trial 262 结果: 2.3620512820512833
+
+===== Trial 263 开始 =====
+参数: {'alpha': 0.2709827946527749, 'gamma': 2.30678358157652, 'lr': 0.00010250744355082789}
+lr 0.00010250744355082789 gamma 2.30678358157652 alpha 0.2709827946527749 TrainAcc2: 85.5769% TrainAcc2num: 178.0000testAcc2: 73.9130% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 5.4104
+Training time: 497.12s
+Trial 263 结果: 5.410434782608696
+
+===== Trial 264 开始 =====
+参数: {'alpha': 0.27841898671572074, 'gamma': 2.2774864715676397, 'lr': 0.000535291802644633}
+Model: resnet101_18ch Best para: 3.1228
+Training time: 493.03s
+Trial 264 结果: 3.122816901408454
+
+===== Trial 265 开始 =====
+参数: {'alpha': 0.3321137236146477, 'gamma': 2.344617324921006, 'lr': 0.0007096696789766932}
+Model: resnet101_18ch Best para: 3.8924
+Training time: 491.78s
+Trial 265 结果: 3.892380952380952
+
+===== Trial 266 开始 =====
+参数: {'alpha': 0.3201219099388889, 'gamma': 2.4301586536353748, 'lr': 0.00012138267534536318}
+Model: resnet101_18ch Best para: 3.8125
+Training time: 493.61s
+Trial 266 结果: 3.812530120481929
+
+===== Trial 267 开始 =====
+参数: {'alpha': 0.2716592447568453, 'gamma': 2.3952750440689905, 'lr': 0.0006134348230552597}
+Model: resnet101_18ch Best para: 3.7774
+Training time: 491.75s
+Trial 267 结果: 3.7773770491803282
+
+===== Trial 268 开始 =====
+参数: {'alpha': 0.283437289976537, 'gamma': 1.5296957441973185, 'lr': 0.000659616126183352}
+lr 0.000659616126183352 gamma 1.5296957441973185 alpha 0.283437289976537 TrainAcc2: 70.6767% TrainAcc2num: 94.0000testAcc2: 72.0930% testAcc2num: 31.0000
+Model: resnet101_18ch Best para: 4.3688
+Training time: 491.18s
+Trial 268 结果: 4.368837209302325
+
+===== Trial 269 开始 =====
+参数: {'alpha': 0.268419618299197, 'gamma': 2.317381189590058, 'lr': 0.0007643991441856858}
+lr 0.0007643991441856858 gamma 2.317381189590058 alpha 0.268419618299197 TrainAcc2: 78.6517% TrainAcc2num: 70.0000testAcc2: 77.1429% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 5.1686
+Training time: 492.84s
+Trial 269 结果: 5.168571428571431
+
+===== Trial 270 开始 =====
+参数: {'alpha': 0.2763902460848778, 'gamma': 2.1269343944791506, 'lr': 0.000513633082230376}
+Model: resnet101_18ch Best para: 3.9851
+Training time: 492.07s
+Trial 270 结果: 3.9851162790697723
+
+===== Trial 271 开始 =====
+参数: {'alpha': 0.2732654808704742, 'gamma': 2.36065198495319, 'lr': 0.000558880724070598}
+lr 0.000558880724070598 gamma 2.36065198495319 alpha 0.2732654808704742 TrainAcc2: 73.4043% TrainAcc2num: 69.0000testAcc2: 70.7692% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 5.8738
+Training time: 492.46s
+Trial 271 结果: 5.8738461538461575
+
+===== Trial 272 开始 =====
+参数: {'alpha': 0.2735493477152932, 'gamma': 2.35927016203267, 'lr': 0.0005524571914567503}
+lr 0.0005524571914567503 gamma 2.35927016203267 alpha 0.2735493477152932 TrainAcc2: 78.6127% TrainAcc2num: 136.0000testAcc2: 84.2105% testAcc2num: 32.0000
+Model: resnet101_18ch Best para: 8.3874
+Training time: 494.53s
+Trial 272 结果: 8.387368421052631
+
+===== Trial 273 开始 =====
+参数: {'alpha': 0.27247969852471754, 'gamma': 2.3818222200902572, 'lr': 0.00048818336360867247}
+lr 0.00048818336360867247 gamma 2.3818222200902572 alpha 0.27247969852471754 TrainAcc2: 77.5510% TrainAcc2num: 76.0000testAcc2: 68.6567% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 4.9021
+Training time: 492.09s
+Trial 273 结果: 4.902089552238807
+
+===== Trial 274 开始 =====
+参数: {'alpha': 0.27421368297231546, 'gamma': 2.3632569392774583, 'lr': 0.0005574803410460061}
+lr 0.0005574803410460061 gamma 2.3632569392774583 alpha 0.27421368297231546 TrainAcc2: 74.5614% TrainAcc2num: 85.0000testAcc2: 67.7419% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 4.0916
+Training time: 491.47s
+Trial 274 结果: 4.091612903225807
+
+===== Trial 275 开始 =====
+参数: {'alpha': 0.27762599367942314, 'gamma': 2.3599918091209586, 'lr': 0.0005583595775784306}
+lr 0.0005583595775784306 gamma 2.3599918091209586 alpha 0.27762599367942314 TrainAcc2: 62.9630% TrainAcc2num: 51.0000testAcc2: 70.0000% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 5.0400
+Training time: 494.94s
+Trial 275 结果: 5.04
+
+===== Trial 276 开始 =====
+参数: {'alpha': 0.2750933095723583, 'gamma': 2.3919328776780646, 'lr': 0.0005363421213910889}
+Model: resnet101_18ch Best para: 3.1597
+Training time: 489.16s
+Trial 276 结果: 3.159661016949155
+
+===== Trial 277 开始 =====
+参数: {'alpha': 0.31472469836349426, 'gamma': 2.4138153804458478, 'lr': 0.0005913356997734791}
+lr 0.0005913356997734791 gamma 2.4138153804458478 alpha 0.31472469836349426 TrainAcc2: 67.4699% TrainAcc2num: 112.0000testAcc2: 69.2308% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 4.0431
+Training time: 492.61s
+Trial 277 结果: 4.043076923076924
+
+===== Trial 278 开始 =====
+参数: {'alpha': 0.2730121414797232, 'gamma': 2.4608829760852284, 'lr': 0.0003983539440809086}
+lr 0.0003983539440809086 gamma 2.4608829760852284 alpha 0.2730121414797232 TrainAcc2: 76.0479% TrainAcc2num: 127.0000testAcc2: 73.5849% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 6.0781
+Training time: 492.82s
+Trial 278 结果: 6.078113207547169
+
+===== Trial 279 开始 =====
+参数: {'alpha': 0.27309632970461, 'gamma': 2.5250283650458023, 'lr': 0.0003859507763815302}
+Model: resnet101_18ch Best para: 3.8919
+Training time: 491.12s
+Trial 279 结果: 3.891851851851855
+
+===== Trial 280 开始 =====
+参数: {'alpha': 0.266783950764946, 'gamma': 2.5026310885823566, 'lr': 0.0005680634706914978}
+Model: resnet101_18ch Best para: 3.0003
+Training time: 491.46s
+Trial 280 结果: 3.0002739726027423
+
+===== Trial 281 开始 =====
+参数: {'alpha': 0.27038401995902583, 'gamma': 2.4775617846917624, 'lr': 0.0008658341098387259}
+lr 0.0008658341098387259 gamma 2.4775617846917624 alpha 0.27038401995902583 TrainAcc2: 70.3704% TrainAcc2num: 19.0000testAcc2: 76.9231% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 5.6769
+Training time: 492.55s
+Trial 281 结果: 5.67692307692308
+
+===== Trial 282 开始 =====
+参数: {'alpha': 0.2794680926990753, 'gamma': 2.463626608308447, 'lr': 0.0004026946675851598}
+Model: resnet101_18ch Best para: 2.8286
+Training time: 493.73s
+Trial 282 结果: 2.8285714285714327
+
+===== Trial 283 开始 =====
+参数: {'alpha': 0.2727015308619428, 'gamma': 2.4356195695349885, 'lr': 0.0005317980458047069}
+lr 0.0005317980458047069 gamma 2.4356195695349885 alpha 0.2727015308619428 TrainAcc2: 76.0000% TrainAcc2num: 57.0000testAcc2: 66.2651% testAcc2num: 55.0000
+Model: resnet101_18ch Best para: 4.5458
+Training time: 490.75s
+Trial 283 结果: 4.545783132530124
+
+===== Trial 284 开始 =====
+参数: {'alpha': 0.2681816746045605, 'gamma': 2.1608373913393017, 'lr': 0.000586927414053357}
+lr 0.000586927414053357 gamma 2.1608373913393017 alpha 0.2681816746045605 TrainAcc2: 68.7500% TrainAcc2num: 55.0000testAcc2: 93.3333% testAcc2num: 14.0000
+Model: resnet101_18ch Best para: 4.9467
+Training time: 493.68s
+Trial 284 结果: 4.946666666666667
+
+===== Trial 285 开始 =====
+参数: {'alpha': 0.2657391453941574, 'gamma': 2.3632214500227215, 'lr': 0.00079886390280132}
+lr 0.00079886390280132 gamma 2.3632214500227215 alpha 0.2657391453941574 TrainAcc2: 74.7253% TrainAcc2num: 68.0000testAcc2: 73.3333% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 5.0600
+Training time: 491.32s
+Trial 285 结果: 5.06
+
+===== Trial 286 开始 =====
+参数: {'alpha': 0.2742791518161811, 'gamma': 2.189172782725131, 'lr': 0.0006165871331289301}
+Model: resnet101_18ch Best para: 3.9186
+Training time: 491.21s
+Trial 286 结果: 3.9186440677966106
+
+===== Trial 287 开始 =====
+参数: {'alpha': 0.281211851438979, 'gamma': 2.340038780198004, 'lr': 0.0005085077757520003}
+lr 0.0005085077757520003 gamma 2.340038780198004 alpha 0.281211851438979 TrainAcc2: 69.2308% TrainAcc2num: 72.0000testAcc2: 66.2791% testAcc2num: 57.0000
+Model: resnet101_18ch Best para: 4.7191
+Training time: 493.49s
+Trial 287 结果: 4.7190697674418605
+
+===== Trial 288 开始 =====
+参数: {'alpha': 0.2704400899897827, 'gamma': 2.22183242336864, 'lr': 0.000724770285744208}
+Model: resnet101_18ch Best para: 3.2124
+Training time: 492.95s
+Trial 288 结果: 3.2124031007751963
+
+===== Trial 289 开始 =====
+参数: {'alpha': 0.32313397732246835, 'gamma': 2.402389437452791, 'lr': 0.0008355582867178443}
+Model: resnet101_18ch Best para: 3.3329
+Training time: 492.89s
+Trial 289 结果: 3.3329032258064517
+
+===== Trial 290 开始 =====
+参数: {'alpha': 0.2772336502165747, 'gamma': 2.4522576794658977, 'lr': 0.00036707683515535875}
+Model: resnet101_18ch Best para: 3.3943
+Training time: 493.47s
+Trial 290 结果: 3.394285714285719
+
+===== Trial 291 开始 =====
+参数: {'alpha': 0.27229174212243323, 'gamma': 2.183821592760363, 'lr': 0.0005651581300061501}
+Model: resnet101_18ch Best para: 2.8820
+Training time: 491.89s
+Trial 291 结果: 2.8819512195121977
+
+===== Trial 292 开始 =====
+参数: {'alpha': 0.275673224522055, 'gamma': 2.383835885686858, 'lr': 0.0006795836212313408}
+lr 0.0006795836212313408 gamma 2.383835885686858 alpha 0.275673224522055 TrainAcc2: 83.5294% TrainAcc2num: 71.0000testAcc2: 67.5325% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 4.9569
+Training time: 494.17s
+Trial 292 结果: 4.9568831168831196
+
+===== Trial 293 开始 =====
+参数: {'alpha': 0.3370464684253062, 'gamma': 2.105986281561128, 'lr': 0.0003970708210397076}
+lr 0.0003970708210397076 gamma 2.105986281561128 alpha 0.3370464684253062 TrainAcc2: 77.5735% TrainAcc2num: 211.0000testAcc2: 69.3548% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 4.8826
+Training time: 492.80s
+Trial 293 结果: 4.882580645161294
+
+===== Trial 294 开始 =====
+参数: {'alpha': 0.26501677683259456, 'gamma': 2.2430942751499074, 'lr': 0.0002582573022476426}
+Model: resnet101_18ch Best para: 2.0848
+Training time: 492.60s
+Trial 294 结果: 2.0848484848484894
+
+===== Trial 295 开始 =====
+参数: {'alpha': 0.2680359746802572, 'gamma': 2.3404775029542444, 'lr': 0.0006404069532595069}
+lr 0.0006404069532595069 gamma 2.3404775029542444 alpha 0.2680359746802572 TrainAcc2: 72.4138% TrainAcc2num: 84.0000testAcc2: 72.9730% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 4.0427
+Training time: 493.44s
+Trial 295 结果: 4.042702702702703
+
+===== Trial 296 开始 =====
+参数: {'alpha': 0.27940806147909614, 'gamma': 1.8477907770143709, 'lr': 0.0006039037431885313}
+Model: resnet101_18ch Best para: 3.3329
+Training time: 493.26s
+Trial 296 结果: 3.3329032258064517
+
+===== Trial 297 开始 =====
+参数: {'alpha': 0.2705646903537723, 'gamma': 2.209191407909847, 'lr': 0.0003095320810838927}
+lr 0.0003095320810838927 gamma 2.209191407909847 alpha 0.2705646903537723 TrainAcc2: 75.1553% TrainAcc2num: 121.0000testAcc2: 72.3404% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.8757
+Training time: 492.48s
+Trial 297 结果: 4.875744680851067
+
+===== Trial 298 开始 =====
+参数: {'alpha': 0.2747419198204457, 'gamma': 2.424349113285706, 'lr': 0.00034693259771775863}
+lr 0.00034693259771775863 gamma 2.424349113285706 alpha 0.2747419198204457 TrainAcc2: 71.8954% TrainAcc2num: 110.0000testAcc2: 77.7778% testAcc2num: 21.0000
+Model: resnet101_18ch Best para: 4.1533
+Training time: 491.32s
+Trial 298 结果: 4.153333333333334
+
+===== Trial 299 开始 =====
+参数: {'alpha': 0.3490349309961151, 'gamma': 2.363115027781178, 'lr': 0.000745268380027356}
+Model: resnet101_18ch Best para: 3.0752
+Training time: 492.08s
+Trial 299 结果: 3.075151515151516
+
+===== Trial 300 开始 =====
+参数: {'alpha': 0.27749463887118037, 'gamma': 2.5038494052138542, 'lr': 0.0007043735637733894}
+Model: resnet101_18ch Best para: 3.8626
+Training time: 492.69s
+Trial 300 结果: 3.8625641025641038
+
+===== Trial 301 开始 =====
+参数: {'alpha': 0.282326235716643, 'gamma': 2.3790205070473096, 'lr': 0.000473507153980723}
+Model: resnet101_18ch Best para: 3.7117
+Training time: 495.10s
+Trial 301 结果: 3.7117460317460345
+
+===== Trial 302 开始 =====
+参数: {'alpha': 0.2725155412579671, 'gamma': 2.137873078822575, 'lr': 0.0007802066836612426}
+Model: resnet101_18ch Best para: 3.0003
+Training time: 492.76s
+Trial 302 结果: 3.0002739726027423
+
+===== Trial 303 开始 =====
+参数: {'alpha': 0.35380369666363437, 'gamma': 2.265134290932875, 'lr': 0.0002844583045159591}
+lr 0.0002844583045159591 gamma 2.265134290932875 alpha 0.35380369666363437 TrainAcc2: 69.6833% TrainAcc2num: 154.0000testAcc2: 65.9091% testAcc2num: 58.0000
+Model: resnet101_18ch Best para: 4.5873
+Training time: 493.24s
+Trial 303 结果: 4.587272727272728
+
+===== Trial 304 开始 =====
+参数: {'alpha': 0.26915086424444606, 'gamma': 2.3337993955967393, 'lr': 0.0005498445985751021}
+Model: resnet101_18ch Best para: 3.5660
+Training time: 492.83s
+Trial 304 结果: 3.5659770114942546
+
+===== Trial 305 开始 =====
+参数: {'alpha': 0.2646248783749819, 'gamma': 2.165238813685995, 'lr': 0.0006389903078444499}
+Model: resnet101_18ch Best para: 3.4200
+Training time: 493.00s
+Trial 305 结果: 3.420000000000001
+
+===== Trial 306 开始 =====
+参数: {'alpha': 0.2802139872084518, 'gamma': 2.231031896635767, 'lr': 0.0005196943347319402}
+Model: resnet101_18ch Best para: 3.5486
+Training time: 494.42s
+Trial 306 结果: 3.5485714285714303
+
+===== Trial 307 开始 =====
+参数: {'alpha': 0.2742131548760577, 'gamma': 2.4079531727697434, 'lr': 0.00041958853961389}
+lr 0.00041958853961389 gamma 2.4079531727697434 alpha 0.2742131548760577 TrainAcc2: 73.0769% TrainAcc2num: 133.0000testAcc2: 74.3590% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.7441
+Training time: 492.89s
+Trial 307 结果: 4.744102564102566
+
+===== Trial 308 开始 =====
+参数: {'alpha': 0.2672712100113586, 'gamma': 2.322451516854915, 'lr': 0.0006698452393713791}
+lr 0.0006698452393713791 gamma 2.322451516854915 alpha 0.2672712100113586 TrainAcc2: 69.3182% TrainAcc2num: 61.0000testAcc2: 75.0000% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 4.5900
+Training time: 493.42s
+Trial 308 结果: 4.590000000000001
+
+===== Trial 309 开始 =====
+参数: {'alpha': 0.28465252118353285, 'gamma': 2.3613842588245153, 'lr': 0.0005926520922461774}
+lr 0.0005926520922461774 gamma 2.3613842588245153 alpha 0.28465252118353285 TrainAcc2: 67.5000% TrainAcc2num: 27.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 493.06s
+Trial 309 结果: 4.205
+
+===== Trial 310 开始 =====
+参数: {'alpha': 0.2767105627993406, 'gamma': 2.2559676152697716, 'lr': 0.0003283246511594842}
+lr 0.0003283246511594842 gamma 2.2559676152697716 alpha 0.2767105627993406 TrainAcc2: 81.6216% TrainAcc2num: 151.0000testAcc2: 64.7059% testAcc2num: 66.0000
+Model: resnet101_18ch Best para: 4.4259
+Training time: 493.80s
+Trial 310 结果: 4.425882352941182
+
+===== Trial 311 开始 =====
+参数: {'alpha': 0.2707097916846367, 'gamma': 2.0113602747198347, 'lr': 0.0007315137653448098}
+Model: resnet101_18ch Best para: 1.7705
+Training time: 494.39s
+Trial 311 结果: 1.7705263157894766
+
+===== Trial 312 开始 =====
+参数: {'alpha': 0.2778501072547702, 'gamma': 2.2014897116860803, 'lr': 0.0008131714059980135}
+Model: resnet101_18ch Best para: 1.7489
+Training time: 492.37s
+Trial 312 结果: 1.7489361702127681
+
+===== Trial 313 开始 =====
+参数: {'alpha': 0.27271041831036164, 'gamma': 1.9791500550532577, 'lr': 0.0009092700694498395}
+lr 0.0009092700694498395 gamma 1.9791500550532577 alpha 0.27271041831036164 TrainAcc2: 66.0714% TrainAcc2num: 37.0000testAcc2: 69.3548% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 4.8826
+Training time: 492.36s
+Trial 313 结果: 4.882580645161294
+
+===== Trial 314 开始 =====
+参数: {'alpha': 0.28052349681410615, 'gamma': 2.3999419573442125, 'lr': 0.0006953989270223735}
+Model: resnet101_18ch Best para: 3.2025
+Training time: 490.44s
+Trial 314 结果: 3.2025000000000015
+
+===== Trial 315 开始 =====
+参数: {'alpha': 0.2753025859042645, 'gamma': 1.7719912970707712, 'lr': 0.0007648581690692733}
+Model: resnet101_18ch Best para: 3.4000
+Training time: 493.03s
+Trial 315 结果: 3.400000000000003
+
+===== Trial 316 开始 =====
+参数: {'alpha': 0.2687896832746842, 'gamma': 2.3485813398785376, 'lr': 0.0006245980200113084}
+Model: resnet101_18ch Best para: 2.6903
+Training time: 494.34s
+Trial 316 结果: 2.690303030303032
+
+===== Trial 317 开始 =====
+参数: {'alpha': 0.32556235188260757, 'gamma': 2.2948596725654253, 'lr': 0.0005738321759818482}
+lr 0.0005738321759818482 gamma 2.2948596725654253 alpha 0.32556235188260757 TrainAcc2: 77.7251% TrainAcc2num: 164.0000testAcc2: 66.6667% testAcc2num: 56.0000
+Model: resnet101_18ch Best para: 4.8533
+Training time: 493.85s
+Trial 317 结果: 4.8533333333333335
+
+===== Trial 318 开始 =====
+参数: {'alpha': 0.2664730877366839, 'gamma': 2.587555105457549, 'lr': 0.0006566955449806374}
+Model: resnet101_18ch Best para: 3.7774
+Training time: 493.75s
+Trial 318 结果: 3.7773770491803282
+
+===== Trial 319 开始 =====
+参数: {'alpha': 0.2723458521874351, 'gamma': 2.1756657584553416, 'lr': 0.00015373049747115792}
+lr 0.00015373049747115792 gamma 2.1756657584553416 alpha 0.2723458521874351 TrainAcc2: 67.3913% TrainAcc2num: 62.0000testAcc2: 68.8525% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 4.5580
+Training time: 494.63s
+Trial 319 结果: 4.5580327868852475
+
+===== Trial 320 开始 =====
+参数: {'alpha': 0.2638118643233059, 'gamma': 2.3777110545592475, 'lr': 0.0005395457637084905}
+lr 0.0005395457637084905 gamma 2.3777110545592475 alpha 0.2638118643233059 TrainAcc2: 72.9323% TrainAcc2num: 97.0000testAcc2: 68.4932% testAcc2num: 50.0000
+Model: resnet101_18ch Best para: 5.2466
+Training time: 493.27s
+Trial 320 结果: 5.2465753424657535
+
+===== Trial 321 开始 =====
+参数: {'alpha': 0.2791545132842709, 'gamma': 2.4372486681289236, 'lr': 0.0005000385725972566}
+lr 0.0005000385725972566 gamma 2.4372486681289236 alpha 0.2791545132842709 TrainAcc2: 79.5000% TrainAcc2num: 159.0000testAcc2: 63.0769% testAcc2num: 82.0000
+Model: resnet101_18ch Best para: 4.1631
+Training time: 494.74s
+Trial 321 结果: 4.1630769230769245
+
+===== Trial 322 开始 =====
+参数: {'alpha': 0.2742497425892367, 'gamma': 2.3232490214944677, 'lr': 0.0007188247767654266}
+Model: resnet101_18ch Best para: 2.7300
+Training time: 493.40s
+Trial 322 结果: 2.730000000000002
+
+===== Trial 323 开始 =====
+参数: {'alpha': 0.2820810617025548, 'gamma': 2.2270205305153925, 'lr': 0.000860474678998153}
+lr 0.000860474678998153 gamma 2.2270205305153925 alpha 0.2820810617025548 TrainAcc2: 60.0000% TrainAcc2num: 18.0000testAcc2: 69.6429% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 4.5407
+Training time: 492.68s
+Trial 323 结果: 4.540714285714286
+
+===== Trial 324 开始 =====
+参数: {'alpha': 0.2772986649976709, 'gamma': 2.2753599309261863, 'lr': 0.0007558716141184559}
+lr 0.0007558716141184559 gamma 2.2753599309261863 alpha 0.2772986649976709 TrainAcc2: 65.3846% TrainAcc2num: 17.0000testAcc2: 71.0145% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 6.3771
+Training time: 492.77s
+Trial 324 结果: 6.377101449275367
+
+===== Trial 325 开始 =====
+参数: {'alpha': 0.2701748306411385, 'gamma': 2.276534968594246, 'lr': 0.0006871179321556948}
+Model: resnet101_18ch Best para: 3.4206
+Training time: 494.97s
+Trial 325 结果: 3.4205555555555582
+
+===== Trial 326 开始 =====
+参数: {'alpha': 0.2758173338610063, 'gamma': 2.0756131945442253, 'lr': 0.0006131115833607207}
+lr 0.0006131115833607207 gamma 2.0756131945442253 alpha 0.2758173338610063 TrainAcc2: 74.4526% TrainAcc2num: 102.0000testAcc2: 71.1538% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 4.8669
+Training time: 493.28s
+Trial 326 结果: 4.866923076923079
+
+===== Trial 327 开始 =====
+参数: {'alpha': 0.2728848725231796, 'gamma': 2.3034682534372033, 'lr': 0.000750637137315387}
+lr 0.000750637137315387 gamma 2.3034682534372033 alpha 0.2728848725231796 TrainAcc2: 69.8413% TrainAcc2num: 44.0000testAcc2: 71.4286% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 5.3714
+Training time: 491.43s
+Trial 327 结果: 5.371428571428574
+
+===== Trial 328 开始 =====
+参数: {'alpha': 0.26787400366668845, 'gamma': 2.342345032465316, 'lr': 0.00018453438587132492}
+lr 0.00018453438587132492 gamma 2.342345032465316 alpha 0.26787400366668845 TrainAcc2: 71.2963% TrainAcc2num: 77.0000testAcc2: 69.4915% testAcc2num: 41.0000
+Model: resnet101_18ch Best para: 4.7115
+Training time: 491.79s
+Trial 328 结果: 4.711525423728816
+
+===== Trial 329 开始 =====
+参数: {'alpha': 0.27643846786274107, 'gamma': 2.038932520160363, 'lr': 0.00037830734356489803}
+lr 0.00037830734356489803 gamma 2.038932520160363 alpha 0.27643846786274107 TrainAcc2: 72.6744% TrainAcc2num: 125.0000testAcc2: 72.7273% testAcc2num: 32.0000
+Model: resnet101_18ch Best para: 4.7127
+Training time: 493.19s
+Trial 329 结果: 4.712727272727275
+
+===== Trial 330 开始 =====
+参数: {'alpha': 0.2708389676607616, 'gamma': 1.6366195482389325, 'lr': 0.00046309510408062624}
+Model: resnet101_18ch Best para: 3.4309
+Training time: 492.73s
+Trial 330 结果: 3.4309090909090925
+
+===== Trial 331 开始 =====
+参数: {'alpha': 0.2622866574361448, 'gamma': 2.150812690656682, 'lr': 0.0006525842992904572}
+lr 0.0006525842992904572 gamma 2.150812690656682 alpha 0.2622866574361448 TrainAcc2: 72.6415% TrainAcc2num: 77.0000testAcc2: 73.4694% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 5.5690
+Training time: 492.50s
+Trial 331 结果: 5.5689795918367375
+
+===== Trial 332 开始 =====
+参数: {'alpha': 0.2782326050024604, 'gamma': 2.384442617976531, 'lr': 0.0005817934016045453}
+Model: resnet101_18ch Best para: 3.8609
+Training time: 492.99s
+Trial 332 结果: 3.8609090909090935
+
+===== Trial 333 开始 =====
+参数: {'alpha': 0.2657163680211478, 'gamma': 2.1220630975805386, 'lr': 0.00020693532511154784}
+lr 0.00020693532511154784 gamma 2.1220630975805386 alpha 0.2657163680211478 TrainAcc2: 77.4648% TrainAcc2num: 110.0000testAcc2: 69.8413% testAcc2num: 44.0000
+Model: resnet101_18ch Best para: 5.2102
+Training time: 494.09s
+Trial 333 结果: 5.21015873015873
+
+===== Trial 334 开始 =====
+参数: {'alpha': 0.27352196217313024, 'gamma': 2.418040189002622, 'lr': 0.0005211170100528951}
+lr 0.0005211170100528951 gamma 2.418040189002622 alpha 0.27352196217313024 TrainAcc2: 75.0000% TrainAcc2num: 90.0000testAcc2: 70.5882% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 4.5318
+Training time: 494.32s
+Trial 334 结果: 4.531764705882356
+
+===== Trial 335 开始 =====
+参数: {'alpha': 0.2696262658105385, 'gamma': 1.5754163925694402, 'lr': 0.000788096712030044}
+lr 0.000788096712030044 gamma 1.5754163925694402 alpha 0.2696262658105385 TrainAcc2: 70.6897% TrainAcc2num: 41.0000testAcc2: 81.8182% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 6.4309
+Training time: 493.63s
+Trial 335 结果: 6.430909090909093
+
+===== Trial 336 开始 =====
+参数: {'alpha': 0.2682501085720495, 'gamma': 1.5691148492403009, 'lr': 0.0002261936017385425}
+Model: resnet101_18ch Best para: 3.6689
+Training time: 493.47s
+Trial 336 结果: 3.668865979381443
+
+===== Trial 337 开始 =====
+参数: {'alpha': 0.2694619564634929, 'gamma': 1.571466926461797, 'lr': 0.0005522715448427917}
+lr 0.0005522715448427917 gamma 1.571466926461797 alpha 0.2694619564634929 TrainAcc2: 79.6178% TrainAcc2num: 125.0000testAcc2: 64.8352% testAcc2num: 59.0000
+Model: resnet101_18ch Best para: 4.0327
+Training time: 494.60s
+Trial 337 结果: 4.0327472527472565
+
+===== Trial 338 开始 =====
+参数: {'alpha': 0.2715408475307415, 'gamma': 2.355928279620263, 'lr': 0.000847432168177523}
+lr 0.000847432168177523 gamma 2.355928279620263 alpha 0.2715408475307415 TrainAcc2: 77.3504% TrainAcc2num: 181.0000testAcc2: 67.0886% testAcc2num: 53.0000
+Model: resnet101_18ch Best para: 4.8170
+Training time: 493.48s
+Trial 338 结果: 4.816962025316459
+
+===== Trial 339 开始 =====
+参数: {'alpha': 0.2663819833885754, 'gamma': 1.5306786415897053, 'lr': 0.000805589865992574}
+lr 0.000805589865992574 gamma 1.5306786415897053 alpha 0.2663819833885754 TrainAcc2: 50.0000% TrainAcc2num: 8.0000testAcc2: 67.5676% testAcc2num: 50.0000
+Model: resnet101_18ch Best para: 4.7838
+Training time: 489.68s
+Trial 339 结果: 4.783783783783785
+
+===== Trial 340 开始 =====
+参数: {'alpha': 0.2648858863018218, 'gamma': 2.2831899489277006, 'lr': 0.0007931314190466618}
+lr 0.0007931314190466618 gamma 2.2831899489277006 alpha 0.2648858863018218 TrainAcc2: 69.8630% TrainAcc2num: 51.0000testAcc2: 81.8182% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 6.4309
+Training time: 492.31s
+Trial 340 结果: 6.430909090909093
+
+===== Trial 341 开始 =====
+参数: {'alpha': 0.26040016851072034, 'gamma': 2.2743557990274685, 'lr': 0.0007787332524697597}
+Model: resnet101_18ch Best para: 3.7846
+Training time: 491.78s
+Trial 341 结果: 3.7846153846153863
+
+===== Trial 342 开始 =====
+参数: {'alpha': 0.2640638929041913, 'gamma': 1.5845974401653495, 'lr': 0.0007179167052958923}
+Model: resnet101_18ch Best para: 2.5200
+Training time: 492.10s
+Trial 342 结果: 2.5200000000000005
+
+===== Trial 343 开始 =====
+参数: {'alpha': 0.26353161976592865, 'gamma': 2.28646741149276, 'lr': 0.0006824848562783808}
+lr 0.0006824848562783808 gamma 2.28646741149276 alpha 0.26353161976592865 TrainAcc2: 74.5902% TrainAcc2num: 91.0000testAcc2: 69.3548% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 4.8826
+Training time: 492.53s
+Trial 343 结果: 4.882580645161294
+
+===== Trial 344 开始 =====
+参数: {'alpha': 0.2664359065166776, 'gamma': 2.308592998801289, 'lr': 0.0006190129031263323}
+lr 0.0006190129031263323 gamma 2.308592998801289 alpha 0.2664359065166776 TrainAcc2: 72.9323% TrainAcc2num: 97.0000testAcc2: 71.6981% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 5.2053
+Training time: 493.50s
+Trial 344 结果: 5.205283018867924
+
+===== Trial 345 开始 =====
+参数: {'alpha': 0.32880984518427886, 'gamma': 1.6128064591185802, 'lr': 0.00039878213108718075}
+Model: resnet101_18ch Best para: 3.0752
+Training time: 493.53s
+Trial 345 结果: 3.075151515151516
+
+===== Trial 346 开始 =====
+参数: {'alpha': 0.26402966338507655, 'gamma': 1.5572537938440634, 'lr': 0.0007899688535293373}
+lr 0.0007899688535293373 gamma 1.5572537938440634 alpha 0.26402966338507655 TrainAcc2: 70.0000% TrainAcc2num: 63.0000testAcc2: 78.7879% testAcc2num: 26.0000
+Model: resnet101_18ch Best para: 5.4048
+Training time: 493.76s
+Trial 346 结果: 5.404848484848485
+
+===== Trial 347 开始 =====
+参数: {'alpha': 0.2691551569939185, 'gamma': 2.246350450740433, 'lr': 0.00042411088036655944}
+Model: resnet101_18ch Best para: 3.8609
+Training time: 494.92s
+Trial 347 结果: 3.8609090909090935
+
+===== Trial 348 开始 =====
+参数: {'alpha': 0.26730207695662184, 'gamma': 1.611539889865362, 'lr': 0.0004843450469417754}
+lr 0.0004843450469417754 gamma 1.611539889865362 alpha 0.26730207695662184 TrainAcc2: 79.0850% TrainAcc2num: 121.0000testAcc2: 72.7273% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 7.0691
+Training time: 494.20s
+Trial 348 结果: 7.069090909090912
+
+===== Trial 349 开始 =====
+参数: {'alpha': 0.26551813513638833, 'gamma': 1.6749668908383089, 'lr': 0.00044324184704947666}
+lr 0.00044324184704947666 gamma 1.6749668908383089 alpha 0.26551813513638833 TrainAcc2: 75.3333% TrainAcc2num: 113.0000testAcc2: 69.6970% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 5.3806
+Training time: 493.28s
+Trial 349 结果: 5.380606060606064
+
+===== Trial 350 开始 =====
+参数: {'alpha': 0.26133622380466814, 'gamma': 1.5999557414845276, 'lr': 0.0004793284377944235}
+lr 0.0004793284377944235 gamma 1.5999557414845276 alpha 0.26133622380466814 TrainAcc2: 78.2258% TrainAcc2num: 97.0000testAcc2: 69.6429% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 4.5407
+Training time: 494.44s
+Trial 350 结果: 4.540714285714286
+
+===== Trial 351 开始 =====
+参数: {'alpha': 0.2656166918475255, 'gamma': 1.6266815235745646, 'lr': 0.0004985182134777254}
+lr 0.0004985182134777254 gamma 1.6266815235745646 alpha 0.2656166918475255 TrainAcc2: 75.0000% TrainAcc2num: 108.0000testAcc2: 88.8889% testAcc2num: 24.0000
+Model: resnet101_18ch Best para: 7.4133
+Training time: 493.38s
+Trial 351 结果: 7.413333333333333
+
+===== Trial 352 开始 =====
+参数: {'alpha': 0.2669784261411256, 'gamma': 1.636272145703134, 'lr': 0.00045908684332577595}
+lr 0.00045908684332577595 gamma 1.636272145703134 alpha 0.2669784261411256 TrainAcc2: 71.8750% TrainAcc2num: 23.0000testAcc2: 68.1159% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.7545
+Training time: 491.76s
+Trial 352 结果: 4.754492753623191
+
+===== Trial 353 开始 =====
+参数: {'alpha': 0.2626774229752962, 'gamma': 1.6007673845684998, 'lr': 0.0004893827859910089}
+lr 0.0004893827859910089 gamma 1.6007673845684998 alpha 0.2626774229752962 TrainAcc2: 72.1311% TrainAcc2num: 88.0000testAcc2: 79.5455% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 7.5409
+Training time: 495.68s
+Trial 353 结果: 7.540909090909091
+
+===== Trial 354 开始 =====
+参数: {'alpha': 0.26332472673228874, 'gamma': 1.606396461988707, 'lr': 0.0004862009586796064}
+Model: resnet101_18ch Best para: 2.7089
+Training time: 493.39s
+Trial 354 结果: 2.7088888888888887
+
+===== Trial 355 开始 =====
+参数: {'alpha': 0.262167582993122, 'gamma': 1.622168016760894, 'lr': 0.0005198758559365356}
+lr 0.0005198758559365356 gamma 1.622168016760894 alpha 0.262167582993122 TrainAcc2: 75.6410% TrainAcc2num: 118.0000testAcc2: 78.5714% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 6.7886
+Training time: 495.66s
+Trial 355 结果: 6.788571428571429
+
+===== Trial 356 开始 =====
+参数: {'alpha': 0.26122858262210624, 'gamma': 1.617798122793845, 'lr': 0.0005045417926093289}
+lr 0.0005045417926093289 gamma 1.617798122793845 alpha 0.26122858262210624 TrainAcc2: 78.8321% TrainAcc2num: 108.0000testAcc2: 70.1493% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 5.7101
+Training time: 493.62s
+Trial 356 结果: 5.7101492537313465
+
+===== Trial 357 开始 =====
+参数: {'alpha': 0.26262300386043547, 'gamma': 1.579317262662652, 'lr': 0.0004896544495777077}
+lr 0.0004896544495777077 gamma 1.579317262662652 alpha 0.26262300386043547 TrainAcc2: 82.3129% TrainAcc2num: 121.0000testAcc2: 64.8936% testAcc2num: 61.0000
+Model: resnet101_18ch Best para: 4.2051
+Training time: 494.60s
+Trial 357 结果: 4.205106382978725
+
+===== Trial 358 开始 =====
+参数: {'alpha': 0.2671073412105476, 'gamma': 1.6267630169349185, 'lr': 0.0004623918531788601}
+Model: resnet101_18ch Best para: 3.9867
+Training time: 492.70s
+Trial 358 结果: 3.986666666666667
+
+===== Trial 359 开始 =====
+参数: {'alpha': 0.26018471679493255, 'gamma': 1.6509946975816663, 'lr': 0.00047583141394935756}
+Model: resnet101_18ch Best para: 2.7733
+Training time: 496.70s
+Trial 359 结果: 2.7733333333333334
+
+===== Trial 360 开始 =====
+参数: {'alpha': 0.26432463322242256, 'gamma': 1.6536060758553095, 'lr': 0.00048140800693685176}
+Model: resnet101_18ch Best para: 2.8566
+Training time: 495.41s
+Trial 360 结果: 2.8565517241379315
+
+===== Trial 361 开始 =====
+参数: {'alpha': 0.31778460480011106, 'gamma': 1.5472037955411428, 'lr': 0.0004435296044618523}
+lr 0.0004435296044618523 gamma 1.5472037955411428 alpha 0.31778460480011106 TrainAcc2: 91.8310% TrainAcc2num: 326.0000testAcc2: 67.0732% testAcc2num: 55.0000
+Model: resnet101_18ch Best para: 4.9902
+Training time: 493.60s
+Trial 361 结果: 4.990243902439029
+
+===== Trial 362 开始 =====
+参数: {'alpha': 0.26858862906462283, 'gamma': 1.6000938051876532, 'lr': 0.0005122653275477649}
+lr 0.0005122653275477649 gamma 1.6000938051876532 alpha 0.26858862906462283 TrainAcc2: 91.0543% TrainAcc2num: 285.0000testAcc2: 66.6667% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 4.1600
+Training time: 494.19s
+Trial 362 结果: 4.16
+
+===== Trial 363 开始 =====
+参数: {'alpha': 0.26633978821997334, 'gamma': 1.5934180546268164, 'lr': 0.0004969238966042767}
+lr 0.0004969238966042767 gamma 1.5934180546268164 alpha 0.26633978821997334 TrainAcc2: 78.4483% TrainAcc2num: 91.0000testAcc2: 66.2162% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 4.0259
+Training time: 493.01s
+Trial 363 结果: 4.025945945945948
+
+===== Trial 364 开始 =====
+参数: {'alpha': 0.27016036091625123, 'gamma': 1.6360995396510485, 'lr': 0.0003538658121089944}
+lr 0.0003538658121089944 gamma 1.6360995396510485 alpha 0.27016036091625123 TrainAcc2: 79.6296% TrainAcc2num: 172.0000testAcc2: 70.8333% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.3633
+Training time: 494.76s
+Trial 364 结果: 4.363333333333336
+
+===== Trial 365 开始 =====
+参数: {'alpha': 0.2639266545069497, 'gamma': 1.6920178696204862, 'lr': 0.0005162193174521065}
+lr 0.0005162193174521065 gamma 1.6920178696204862 alpha 0.2639266545069497 TrainAcc2: 81.5920% TrainAcc2num: 164.0000testAcc2: 66.0377% testAcc2num: 70.0000
+Model: resnet101_18ch Best para: 5.6264
+Training time: 496.88s
+Trial 365 结果: 5.626415094339623
+
+===== Trial 366 开始 =====
+参数: {'alpha': 0.26790714460562187, 'gamma': 1.611851828629121, 'lr': 0.00045828202111769403}
+lr 0.00045828202111769403 gamma 1.611851828629121 alpha 0.26790714460562187 TrainAcc2: 83.7398% TrainAcc2num: 103.0000testAcc2: 68.7500% testAcc2num: 44.0000
+Model: resnet101_18ch Best para: 4.7300
+Training time: 494.48s
+Trial 366 结果: 4.730000000000002
+
+===== Trial 367 开始 =====
+参数: {'alpha': 0.26550147837169, 'gamma': 1.5819083106869753, 'lr': 0.00012642588345750317}
+lr 0.00012642588345750317 gamma 1.5819083106869753 alpha 0.26550147837169 TrainAcc2: 91.1661% TrainAcc2num: 258.0000testAcc2: 70.5882% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 6.0424
+Training time: 494.76s
+Trial 367 结果: 6.042352941176475
+
+===== Trial 368 开始 =====
+参数: {'alpha': 0.26101057499870794, 'gamma': 1.5914282429811757, 'lr': 0.00012525314060364597}
+lr 0.00012525314060364597 gamma 1.5914282429811757 alpha 0.26101057499870794 TrainAcc2: 80.1980% TrainAcc2num: 81.0000testAcc2: 80.6452% testAcc2num: 25.0000
+Model: resnet101_18ch Best para: 5.6613
+Training time: 495.70s
+Trial 368 结果: 5.661290322580645
+
+===== Trial 369 开始 =====
+参数: {'alpha': 0.26509429404972723, 'gamma': 1.5676583835662476, 'lr': 0.00012120741773670302}
+Model: resnet101_18ch Best para: 3.4000
+Training time: 495.20s
+Trial 369 结果: 3.400000000000003
+
+===== Trial 370 开始 =====
+参数: {'alpha': 0.28925398936791963, 'gamma': 1.5009220241830252, 'lr': 0.000739530918845531}
+Model: resnet101_18ch Best para: 3.7457
+Training time: 495.02s
+Trial 370 结果: 3.745714285714288
+
+===== Trial 371 开始 =====
+参数: {'alpha': 0.26239270336227316, 'gamma': 1.5514406537928225, 'lr': 0.0001303634829031327}
+Model: resnet101_18ch Best para: 2.3134
+Training time: 494.38s
+Trial 371 结果: 2.313402061855674
+
+===== Trial 372 开始 =====
+参数: {'alpha': 0.265293105911651, 'gamma': 1.6659580966981526, 'lr': 0.00011424305389664177}
+Model: resnet101_18ch Best para: 3.9186
+Training time: 494.55s
+Trial 372 结果: 3.9186440677966106
+
+===== Trial 373 开始 =====
+参数: {'alpha': 0.26004751384009955, 'gamma': 1.6219427631019354, 'lr': 0.0001362623307352662}
+lr 0.0001362623307352662 gamma 1.6219427631019354 alpha 0.26004751384009955 TrainAcc2: 76.7606% TrainAcc2num: 109.0000testAcc2: 71.7391% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 4.5339
+Training time: 495.85s
+Trial 373 结果: 4.533913043478261
+
+===== Trial 374 开始 =====
+参数: {'alpha': 0.2708461728131528, 'gamma': 1.5806653766115768, 'lr': 0.00012748547011894694}
+Model: resnet101_18ch Best para: 3.2227
+Training time: 493.53s
+Trial 374 结果: 3.2227160493827163
+
+===== Trial 375 开始 =====
+参数: {'alpha': 0.26782105354653785, 'gamma': 1.6119433579484679, 'lr': 0.0007783279458320183}
+lr 0.0007783279458320183 gamma 1.6119433579484679 alpha 0.26782105354653785 TrainAcc2: 71.1538% TrainAcc2num: 37.0000testAcc2: 68.6567% testAcc2num: 46.0000
+Model: resnet101_18ch Best para: 4.9021
+Training time: 494.26s
+Trial 375 结果: 4.902089552238807
+
+===== Trial 376 开始 =====
+参数: {'alpha': 0.2708868899307274, 'gamma': 1.5418500672978184, 'lr': 0.00011714678100076019}
+lr 0.00011714678100076019 gamma 1.5418500672978184 alpha 0.2708868899307274 TrainAcc2: 78.1022% TrainAcc2num: 107.0000testAcc2: 75.0000% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 4.5900
+Training time: 495.42s
+Trial 376 结果: 4.590000000000001
+
+===== Trial 377 开始 =====
+参数: {'alpha': 0.2655887829577257, 'gamma': 1.5927519308417746, 'lr': 0.0007155268321732898}
+lr 0.0007155268321732898 gamma 1.5927519308417746 alpha 0.2655887829577257 TrainAcc2: 73.6842% TrainAcc2num: 42.0000testAcc2: 94.4444% testAcc2num: 17.0000
+Model: resnet101_18ch Best para: 6.1956
+Training time: 495.43s
+Trial 377 结果: 6.195555555555556
+
+===== Trial 378 开始 =====
+参数: {'alpha': 0.2958005144418123, 'gamma': 1.5965265241936377, 'lr': 0.0007275738186337001}
+lr 0.0007275738186337001 gamma 1.5965265241936377 alpha 0.2958005144418123 TrainAcc2: 56.0000% TrainAcc2num: 14.0000testAcc2: 66.6667% testAcc2num: 54.0000
+Model: resnet101_18ch Best para: 4.6800
+Training time: 492.31s
+Trial 378 结果: 4.68
+
+===== Trial 379 开始 =====
+参数: {'alpha': 0.262637181212714, 'gamma': 1.6529586184257195, 'lr': 0.000755774015343387}
+lr 0.000755774015343387 gamma 1.6529586184257195 alpha 0.262637181212714 TrainAcc2: 69.2308% TrainAcc2num: 72.0000testAcc2: 75.0000% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 5.1000
+Training time: 495.87s
+Trial 379 结果: 5.100000000000001
+
+===== Trial 380 开始 =====
+参数: {'alpha': 0.3725841188680304, 'gamma': 1.6343007476365472, 'lr': 0.0007004779755645418}
+lr 0.0007004779755645418 gamma 1.6343007476365472 alpha 0.3725841188680304 TrainAcc2: 69.8925% TrainAcc2num: 65.0000testAcc2: 67.8161% testAcc2num: 59.0000
+Model: resnet101_18ch Best para: 5.7915
+Training time: 495.29s
+Trial 380 结果: 5.791494252873562
+
+===== Trial 381 开始 =====
+参数: {'alpha': 0.2848809949464424, 'gamma': 1.6129634599462654, 'lr': 0.0008293746979994254}
+Model: resnet101_18ch Best para: 2.1127
+Training time: 495.51s
+Trial 381 结果: 2.112743362831858
+
+===== Trial 382 开始 =====
+参数: {'alpha': 0.3344744932049169, 'gamma': 1.5659146564174005, 'lr': 0.0007019218448327141}
+lr 0.0007019218448327141 gamma 1.5659146564174005 alpha 0.3344744932049169 TrainAcc2: 48.5294% TrainAcc2num: 33.0000testAcc2: 68.5714% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 5.0743
+Training time: 493.13s
+Trial 382 结果: 5.0742857142857165
+
+===== Trial 383 开始 =====
+参数: {'alpha': 0.27525749023661383, 'gamma': 1.6490494980556136, 'lr': 0.000754800345527013}
+lr 0.000754800345527013 gamma 1.6490494980556136 alpha 0.27525749023661383 TrainAcc2: 65.2174% TrainAcc2num: 30.0000testAcc2: 69.0141% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 5.3969
+Training time: 493.11s
+Trial 383 结果: 5.396901408450705
+
+===== Trial 384 开始 =====
+参数: {'alpha': 0.26957384643611293, 'gamma': 2.4552498587852543, 'lr': 0.0006752217957080231}
+Model: resnet101_18ch Best para: 3.3943
+Training time: 493.50s
+Trial 384 结果: 3.394285714285719
+
+===== Trial 385 开始 =====
+参数: {'alpha': 0.27195964052381655, 'gamma': 1.5915260000303681, 'lr': 0.0007290582645276878}
+lr 0.0007290582645276878 gamma 1.5915260000303681 alpha 0.27195964052381655 TrainAcc2: 72.5490% TrainAcc2num: 37.0000testAcc2: 90.0000% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 5.7600
+Training time: 493.56s
+Trial 385 结果: 5.760000000000002
+
+===== Trial 386 开始 =====
+参数: {'alpha': 0.26685025838354354, 'gamma': 1.6181053237433967, 'lr': 0.0007863615685917404}
+Model: resnet101_18ch Best para: 3.5345
+Training time: 494.14s
+Trial 386 结果: 3.534545454545456
+
+===== Trial 387 开始 =====
+参数: {'alpha': 0.32221081905588855, 'gamma': 2.5372232634735865, 'lr': 0.0004164894012203793}
+lr 0.0004164894012203793 gamma 2.5372232634735865 alpha 0.32221081905588855 TrainAcc2: 84.4444% TrainAcc2num: 304.0000testAcc2: 64.3478% testAcc2num: 74.0000
+Model: resnet101_18ch Best para: 4.6974
+Training time: 497.73s
+Trial 387 结果: 4.697391304347825
+
+===== Trial 388 开始 =====
+参数: {'alpha': 0.26368919736484364, 'gamma': 1.6950961442947388, 'lr': 0.0005275081098841472}
+Model: resnet101_18ch Best para: 3.3329
+Training time: 494.39s
+Trial 388 结果: 3.3329032258064517
+
+===== Trial 389 开始 =====
+参数: {'alpha': 0.2779787041609322, 'gamma': 1.5257387986778672, 'lr': 0.000647820656408979}
+Model: resnet101_18ch Best para: 3.2744
+Training time: 494.35s
+Trial 389 结果: 3.2744186046511663
+
+===== Trial 390 开始 =====
+参数: {'alpha': 0.27359795093781764, 'gamma': 1.5975692004617241, 'lr': 0.00014322938352135173}
+lr 0.00014322938352135173 gamma 1.5975692004617241 alpha 0.27359795093781764 TrainAcc2: 76.7296% TrainAcc2num: 122.0000testAcc2: 76.5957% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 6.6945
+Training time: 493.31s
+Trial 390 结果: 6.694468085106385
+
+===== Trial 391 开始 =====
+参数: {'alpha': 0.2720336523909453, 'gamma': 1.9376031885657585, 'lr': 0.0001086146330986014}
+lr 0.0001086146330986014 gamma 1.9376031885657585 alpha 0.2720336523909453 TrainAcc2: 79.5181% TrainAcc2num: 66.0000testAcc2: 76.6667% testAcc2num: 23.0000
+Model: resnet101_18ch Best para: 4.2933
+Training time: 495.81s
+Trial 391 结果: 4.293333333333336
+
+===== Trial 392 开始 =====
+参数: {'alpha': 0.3093530579172202, 'gamma': 1.5824788642164198, 'lr': 0.0007994490919851388}
+lr 0.0007994490919851388 gamma 1.5824788642164198 alpha 0.3093530579172202 TrainAcc2: 63.6364% TrainAcc2num: 21.0000testAcc2: 71.6667% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 5.8767
+Training time: 493.69s
+Trial 392 结果: 5.876666666666669
+
+===== Trial 393 开始 =====
+参数: {'alpha': 0.26978213838458887, 'gamma': 1.5545996989901287, 'lr': 0.0007174438258542254}
+lr 0.0007174438258542254 gamma 1.5545996989901287 alpha 0.26978213838458887 TrainAcc2: 73.3945% TrainAcc2num: 80.0000testAcc2: 80.7692% testAcc2num: 21.0000
+Model: resnet101_18ch Best para: 4.7815
+Training time: 492.71s
+Trial 393 结果: 4.781538461538463
+
+===== Trial 394 开始 =====
+参数: {'alpha': 0.27461136231956335, 'gamma': 1.6050287787746875, 'lr': 0.00014131282485071303}
+Model: resnet101_18ch Best para: 3.0323
+Training time: 493.14s
+Trial 394 结果: 3.032307692307693
+
+===== Trial 395 开始 =====
+参数: {'alpha': 0.26846267625788606, 'gamma': 1.6253380046784613, 'lr': 0.0006654097587837184}
+lr 0.0006654097587837184 gamma 1.6253380046784613 alpha 0.26846267625788606 TrainAcc2: 69.8276% TrainAcc2num: 81.0000testAcc2: 81.8182% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 8.5745
+Training time: 492.62s
+Trial 395 结果: 8.574545454545458
+
+===== Trial 396 开始 =====
+参数: {'alpha': 0.26762386034477165, 'gamma': 1.6257824365618203, 'lr': 0.0006795144721472885}
+Model: resnet101_18ch Best para: 3.3600
+Training time: 492.15s
+Trial 396 结果: 3.36
+
+===== Trial 397 开始 =====
+参数: {'alpha': 0.2689080817604664, 'gamma': 1.673337634852281, 'lr': 0.0006925117834746655}
+lr 0.0006925117834746655 gamma 1.673337634852281 alpha 0.2689080817604664 TrainAcc2: 75.3086% TrainAcc2num: 61.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 494.62s
+Trial 397 结果: 4.391578947368421
+
+===== Trial 398 开始 =====
+参数: {'alpha': 0.26658762676054376, 'gamma': 1.6472828859298443, 'lr': 0.0007471536409722418}
+Model: resnet101_18ch Best para: 3.0545
+Training time: 493.35s
+Trial 398 结果: 3.0545454545454542
+
+===== Trial 399 开始 =====
+参数: {'alpha': 0.27197900634977573, 'gamma': 1.601410995433205, 'lr': 0.0006515738162791893}
+lr 0.0006515738162791893 gamma 1.601410995433205 alpha 0.27197900634977573 TrainAcc2: 76.9231% TrainAcc2num: 50.0000testAcc2: 72.3404% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.8757
+Training time: 494.25s
+Trial 399 结果: 4.875744680851067
+
+===== Trial 400 开始 =====
+参数: {'alpha': 0.26501363502060576, 'gamma': 1.565226558137041, 'lr': 0.0007145579816863639}
+lr 0.0007145579816863639 gamma 1.565226558137041 alpha 0.26501363502060576 TrainAcc2: 67.8899% TrainAcc2num: 74.0000testAcc2: 77.1429% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 5.1686
+Training time: 494.57s
+Trial 400 结果: 5.168571428571431
+
+===== Trial 401 开始 =====
+参数: {'alpha': 0.3037790483966662, 'gamma': 1.6245322596377478, 'lr': 0.000674095745069154}
+lr 0.000674095745069154 gamma 1.6245322596377478 alpha 0.3037790483966662 TrainAcc2: 67.9104% TrainAcc2num: 91.0000testAcc2: 72.0000% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 5.0400
+Training time: 493.39s
+Trial 401 结果: 5.040000000000001
+
+===== Trial 402 开始 =====
+参数: {'alpha': 0.26990246352812136, 'gamma': 1.5876617583274966, 'lr': 0.0003819894348410165}
+lr 0.0003819894348410165 gamma 1.5876617583274966 alpha 0.26990246352812136 TrainAcc2: 73.3333% TrainAcc2num: 22.0000testAcc2: 80.0000% testAcc2num: 24.0000
+Model: resnet101_18ch Best para: 5.2800
+Training time: 496.04s
+Trial 402 结果: 5.280000000000002
+
+===== Trial 403 开始 =====
+参数: {'alpha': 0.2625776588888618, 'gamma': 1.633871036194192, 'lr': 0.00014711255369319922}
+lr 0.00014711255369319922 gamma 1.633871036194192 alpha 0.2625776588888618 TrainAcc2: 79.4643% TrainAcc2num: 89.0000testAcc2: 73.3333% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 5.0600
+Training time: 494.24s
+Trial 403 结果: 5.06
+
+===== Trial 404 开始 =====
+参数: {'alpha': 0.2744812678959982, 'gamma': 1.6696195285248536, 'lr': 0.0007634510705762973}
+lr 0.0007634510705762973 gamma 1.6696195285248536 alpha 0.2744812678959982 TrainAcc2: 77.5510% TrainAcc2num: 38.0000testAcc2: 68.3333% testAcc2num: 41.0000
+Model: resnet101_18ch Best para: 4.2367
+Training time: 494.07s
+Trial 404 结果: 4.236666666666669
+
+===== Trial 405 开始 =====
+参数: {'alpha': 0.27194693538646214, 'gamma': 1.6419062050224988, 'lr': 0.0007037534779905625}
+lr 0.0007037534779905625 gamma 1.6419062050224988 alpha 0.27194693538646214 TrainAcc2: 71.6814% TrainAcc2num: 81.0000testAcc2: 68.4211% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 5.4189
+Training time: 492.38s
+Trial 405 结果: 5.418947368421056
+
+===== Trial 406 开始 =====
+参数: {'alpha': 0.2669801668694891, 'gamma': 1.5994542724374103, 'lr': 0.0008180452071167631}
+Model: resnet101_18ch Best para: 2.2533
+Training time: 492.95s
+Trial 406 结果: 2.2533333333333334
+
+===== Trial 407 开始 =====
+参数: {'alpha': 0.34326962972344893, 'gamma': 1.6171741427512139, 'lr': 0.000632118556808491}
+lr 0.000632118556808491 gamma 1.6171741427512139 alpha 0.34326962972344893 TrainAcc2: 70.5882% TrainAcc2num: 144.0000testAcc2: 66.6667% testAcc2num: 56.0000
+Model: resnet101_18ch Best para: 4.8533
+Training time: 493.78s
+Trial 407 结果: 4.8533333333333335
+
+===== Trial 408 开始 =====
+参数: {'alpha': 0.26902056902086185, 'gamma': 2.563384494334195, 'lr': 0.0007305887541391021}
+lr 0.0007305887541391021 gamma 2.563384494334195 alpha 0.26902056902086185 TrainAcc2: 76.6355% TrainAcc2num: 82.0000testAcc2: 75.6757% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.9492
+Training time: 493.92s
+Trial 408 结果: 4.949189189189191
+
+===== Trial 409 开始 =====
+参数: {'alpha': 0.26454072962785236, 'gamma': 1.7264183897119576, 'lr': 0.0007714577661223671}
+lr 0.0007714577661223671 gamma 1.7264183897119576 alpha 0.26454072962785236 TrainAcc2: 76.7241% TrainAcc2num: 89.0000testAcc2: 69.6429% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 4.5407
+Training time: 493.63s
+Trial 409 结果: 4.540714285714286
+
+===== Trial 410 开始 =====
+参数: {'alpha': 0.3295981683253003, 'gamma': 1.576562856679307, 'lr': 0.0008799582998279456}
+Model: resnet101_18ch Best para: 3.4667
+Training time: 494.15s
+Trial 410 结果: 3.466666666666667
+
+===== Trial 411 开始 =====
+参数: {'alpha': 0.2733525296119495, 'gamma': 2.485962560705496, 'lr': 0.0006609246924073632}
+lr 0.0006609246924073632 gamma 2.485962560705496 alpha 0.2733525296119495 TrainAcc2: 67.0330% TrainAcc2num: 61.0000testAcc2: 75.5102% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 6.4788
+Training time: 494.64s
+Trial 411 结果: 6.478775510204081
+
+===== Trial 412 开始 =====
+参数: {'alpha': 0.2625387982679494, 'gamma': 1.615453984603207, 'lr': 0.0006535903063528173}
+lr 0.0006535903063528173 gamma 1.615453984603207 alpha 0.2625387982679494 TrainAcc2: 69.7248% TrainAcc2num: 76.0000testAcc2: 75.0000% testAcc2num: 27.0000
+Model: resnet101_18ch Best para: 4.5900
+Training time: 493.06s
+Trial 412 结果: 4.590000000000001
+
+===== Trial 413 开始 =====
+参数: {'alpha': 0.2600322245547557, 'gamma': 1.5513133774828687, 'lr': 0.0006724012925290949}
+lr 0.0006724012925290949 gamma 1.5513133774828687 alpha 0.2600322245547557 TrainAcc2: 60.5263% TrainAcc2num: 23.0000testAcc2: 70.2128% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 4.0302
+Training time: 493.37s
+Trial 413 结果: 4.030212765957448
+
+===== Trial 414 开始 =====
+参数: {'alpha': 0.27041811001115035, 'gamma': 2.4985270007194083, 'lr': 0.0006232099673748863}
+Model: resnet101_18ch Best para: 3.3571
+Training time: 494.48s
+Trial 414 结果: 3.3571428571428585
+
+===== Trial 415 开始 =====
+参数: {'alpha': 0.27448314820552966, 'gamma': 1.5800315695335554, 'lr': 0.0006876326444733825}
+lr 0.0006876326444733825 gamma 1.5800315695335554 alpha 0.27448314820552966 TrainAcc2: 80.2632% TrainAcc2num: 61.0000testAcc2: 68.1159% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.7545
+Training time: 493.31s
+Trial 415 结果: 4.754492753623191
+
+===== Trial 416 开始 =====
+参数: {'alpha': 0.2667795782004598, 'gamma': 1.6601539547515278, 'lr': 0.0006609580364371368}
+lr 0.0006609580364371368 gamma 1.6601539547515278 alpha 0.2667795782004598 TrainAcc2: 73.8318% TrainAcc2num: 79.0000testAcc2: 75.6757% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.9492
+Training time: 496.23s
+Trial 416 结果: 4.949189189189191
+
+===== Trial 417 开始 =====
+参数: {'alpha': 0.27669415058174424, 'gamma': 2.2709537901216295, 'lr': 0.000729516883257886}
+Model: resnet101_18ch Best para: 3.0845
+Training time: 494.41s
+Trial 417 结果: 3.0844897959183677
+
+===== Trial 418 开始 =====
+参数: {'alpha': 0.2726071627422294, 'gamma': 1.5955360136570453, 'lr': 0.0006387972937853653}
+lr 0.0006387972937853653 gamma 1.5955360136570453 alpha 0.2726071627422294 TrainAcc2: 75.0000% TrainAcc2num: 93.0000testAcc2: 69.2308% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 4.0431
+Training time: 493.60s
+Trial 418 结果: 4.043076923076924
+
+===== Trial 419 开始 =====
+参数: {'alpha': 0.2647605697467826, 'gamma': 1.637888383062482, 'lr': 0.0006991398083526469}
+lr 0.0006991398083526469 gamma 1.637888383062482 alpha 0.2647605697467826 TrainAcc2: 72.8571% TrainAcc2num: 51.0000testAcc2: 85.7143% testAcc2num: 18.0000
+Model: resnet101_18ch Best para: 4.9886
+Training time: 492.49s
+Trial 419 结果: 4.988571428571428
+
+===== Trial 420 开始 =====
+参数: {'alpha': 0.26848759649580506, 'gamma': 1.6121111023391164, 'lr': 0.0008157895509732126}
+Model: resnet101_18ch Best para: 2.9859
+Training time: 493.49s
+Trial 420 结果: 2.985882352941177
+
+===== Trial 421 开始 =====
+参数: {'alpha': 0.2707653894668881, 'gamma': 1.5197161356796847, 'lr': 0.00010132310079853759}
+lr 0.00010132310079853759 gamma 1.5197161356796847 alpha 0.2707653894668881 TrainAcc2: 85.6164% TrainAcc2num: 125.0000testAcc2: 72.3404% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.8757
+Training time: 492.86s
+Trial 421 结果: 4.875744680851067
+
+===== Trial 422 开始 =====
+参数: {'alpha': 0.2749841958836325, 'gamma': 1.5682544490937496, 'lr': 0.0005975403698150713}
+lr 0.0005975403698150713 gamma 1.5682544490937496 alpha 0.2749841958836325 TrainAcc2: 80.7882% TrainAcc2num: 164.0000testAcc2: 66.6667% testAcc2num: 60.0000
+Model: resnet101_18ch Best para: 5.2000
+Training time: 493.49s
+Trial 422 结果: 5.2
+
+===== Trial 423 开始 =====
+参数: {'alpha': 0.2666544559456224, 'gamma': 2.3982293842510107, 'lr': 0.00016096879847709867}
+lr 0.00016096879847709867 gamma 2.3982293842510107 alpha 0.2666544559456224 TrainAcc2: 95.5172% TrainAcc2num: 277.0000testAcc2: 67.7778% testAcc2num: 61.0000
+Model: resnet101_18ch Best para: 5.9644
+Training time: 495.33s
+Trial 423 结果: 5.964444444444449
+
+===== Trial 424 开始 =====
+参数: {'alpha': 0.26313943596114586, 'gamma': 2.2954920982385825, 'lr': 0.0004976119784279827}
+lr 0.0004976119784279827 gamma 2.2954920982385825 alpha 0.26313943596114586 TrainAcc2: 84.6154% TrainAcc2num: 143.0000testAcc2: 72.0930% testAcc2num: 31.0000
+Model: resnet101_18ch Best para: 4.3688
+Training time: 492.73s
+Trial 424 结果: 4.368837209302325
+
+===== Trial 425 开始 =====
+参数: {'alpha': 0.272486155660942, 'gamma': 2.2646027027582525, 'lr': 0.0007552188993150087}
+lr 0.0007552188993150087 gamma 2.2646027027582525 alpha 0.272486155660942 TrainAcc2: 79.2593% TrainAcc2num: 107.0000testAcc2: 80.6452% testAcc2num: 25.0000
+Model: resnet101_18ch Best para: 5.6613
+Training time: 493.00s
+Trial 425 结果: 5.661290322580645
+
+===== Trial 426 开始 =====
+参数: {'alpha': 0.3262598768484913, 'gamma': 2.36993718578318, 'lr': 0.0006687065037248083}
+lr 0.0006687065037248083 gamma 2.36993718578318 alpha 0.3262598768484913 TrainAcc2: 63.2911% TrainAcc2num: 100.0000testAcc2: 100.0000% testAcc2num: 10.0000
+Model: resnet101_18ch Best para: 4.2000
+Training time: 492.30s
+Trial 426 结果: 4.2
+
+===== Trial 427 开始 =====
+参数: {'alpha': 0.2771434196211566, 'gamma': 2.424677587645176, 'lr': 0.0007069923148776685}
+lr 0.0007069923148776685 gamma 2.424677587645176 alpha 0.2771434196211566 TrainAcc2: 82.2642% TrainAcc2num: 218.0000testAcc2: 63.9098% testAcc2num: 85.0000
+Model: resnet101_18ch Best para: 5.0233
+Training time: 495.06s
+Trial 427 结果: 5.023308270676697
+
+===== Trial 428 开始 =====
+参数: {'alpha': 0.26898583623225786, 'gamma': 1.590959352192263, 'lr': 0.0006270582584926287}
+lr 0.0006270582584926287 gamma 1.590959352192263 alpha 0.26898583623225786 TrainAcc2: 72.9032% TrainAcc2num: 113.0000testAcc2: 72.8814% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 6.3990
+Training time: 494.04s
+Trial 428 结果: 6.398983050847457
+
+===== Trial 429 开始 =====
+参数: {'alpha': 0.269548974007436, 'gamma': 1.5415439386215395, 'lr': 0.0006209125353232968}
+lr 0.0006209125353232968 gamma 1.5415439386215395 alpha 0.269548974007436 TrainAcc2: 74.2188% TrainAcc2num: 95.0000testAcc2: 76.6667% testAcc2num: 23.0000
+Model: resnet101_18ch Best para: 4.2933
+Training time: 492.29s
+Trial 429 结果: 4.293333333333336
+
+===== Trial 430 开始 =====
+参数: {'alpha': 0.274790042846772, 'gamma': 1.593772310934861, 'lr': 0.000632296151357975}
+Model: resnet101_18ch Best para: 3.7216
+Training time: 494.18s
+Trial 430 结果: 3.7216438356164385
+
+===== Trial 431 开始 =====
+参数: {'alpha': 0.27145329866108076, 'gamma': 1.5606923466464508, 'lr': 0.00025746061358544205}
+lr 0.00025746061358544205 gamma 1.5606923466464508 alpha 0.27145329866108076 TrainAcc2: 62.9630% TrainAcc2num: 34.0000testAcc2: 66.6667% testAcc2num: 58.0000
+Model: resnet101_18ch Best para: 5.0267
+Training time: 492.56s
+Trial 431 结果: 5.026666666666667
+
+===== Trial 432 开始 =====
+参数: {'alpha': 0.268436680944908, 'gamma': 2.558536590868609, 'lr': 0.0005952060710351757}
+Model: resnet101_18ch Best para: 3.2933
+Training time: 492.97s
+Trial 432 结果: 3.2933333333333334
+
+===== Trial 433 开始 =====
+参数: {'alpha': 0.27338558524635104, 'gamma': 2.599098801869906, 'lr': 0.0006555599243470963}
+lr 0.0006555599243470963 gamma 2.599098801869906 alpha 0.27338558524635104 TrainAcc2: 77.9570% TrainAcc2num: 145.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 495.35s
+Trial 433 结果: 4.391578947368421
+
+===== Trial 434 开始 =====
+参数: {'alpha': 0.2766645101269677, 'gamma': 1.6245846244481799, 'lr': 0.0006887582407473015}
+lr 0.0006887582407473015 gamma 1.6245846244481799 alpha 0.2766645101269677 TrainAcc2: 70.2128% TrainAcc2num: 66.0000testAcc2: 73.6842% testAcc2num: 28.0000
+Model: resnet101_18ch Best para: 4.3916
+Training time: 494.78s
+Trial 434 结果: 4.391578947368421
+
+===== Trial 435 开始 =====
+参数: {'alpha': 0.27009741293309203, 'gamma': 1.6805497519718495, 'lr': 0.0007354254660377477}
+Model: resnet101_18ch Best para: 3.6470
+Training time: 492.36s
+Trial 435 结果: 3.6469565217391318
+
+===== Trial 436 开始 =====
+参数: {'alpha': 0.2735505491443282, 'gamma': 1.5800244780152943, 'lr': 0.00027689844055134885}
+lr 0.00027689844055134885 gamma 1.5800244780152943 alpha 0.2735505491443282 TrainAcc2: 74.1935% TrainAcc2num: 138.0000testAcc2: 65.2174% testAcc2num: 60.0000
+Model: resnet101_18ch Best para: 4.3304
+Training time: 492.94s
+Trial 436 结果: 4.330434782608698
+
+===== Trial 437 开始 =====
+参数: {'alpha': 0.2666650860089212, 'gamma': 1.6515244481936402, 'lr': 0.0006106108406653842}
+Model: resnet101_18ch Best para: 3.4206
+Training time: 492.21s
+Trial 437 结果: 3.4205555555555582
+
+===== Trial 438 开始 =====
+参数: {'alpha': 0.2709576773258203, 'gamma': 1.6132267361481722, 'lr': 0.000778511593204576}
+lr 0.000778511593204576 gamma 1.6132267361481722 alpha 0.2709576773258203 TrainAcc2: 73.5294% TrainAcc2num: 50.0000testAcc2: 76.1905% testAcc2num: 32.0000
+Model: resnet101_18ch Best para: 5.8210
+Training time: 493.52s
+Trial 438 结果: 5.820952380952381
+
+===== Trial 439 开始 =====
+参数: {'alpha': 0.2779376591874076, 'gamma': 2.5199146752060857, 'lr': 0.0006461115350122475}
+Model: resnet101_18ch Best para: 3.2933
+Training time: 494.57s
+Trial 439 结果: 3.2933333333333334
+
+===== Trial 440 开始 =====
+参数: {'alpha': 0.2646666360352525, 'gamma': 1.5840175726307342, 'lr': 0.0001174375521867725}
+Model: resnet101_18ch Best para: 3.8919
+Training time: 494.55s
+Trial 440 结果: 3.891851851851855
+
+===== Trial 441 开始 =====
+参数: {'alpha': 0.2679682392638727, 'gamma': 1.596703687459691, 'lr': 0.00011192733167623143}
+Model: resnet101_18ch Best para: 3.6041
+Training time: 493.53s
+Trial 441 结果: 3.6041379310344848
+
+===== Trial 442 开始 =====
+参数: {'alpha': 0.2751698160250639, 'gamma': 1.8711409767083333, 'lr': 0.0006741655563493296}
+lr 0.0006741655563493296 gamma 1.8711409767083333 alpha 0.2751698160250639 TrainAcc2: 56.6667% TrainAcc2num: 34.0000testAcc2: 71.1111% testAcc2num: 32.0000
+Model: resnet101_18ch Best para: 4.1956
+Training time: 492.99s
+Trial 442 结果: 4.195555555555558
+
+===== Trial 443 开始 =====
+参数: {'alpha': 0.27223413411468805, 'gamma': 1.5537789977145697, 'lr': 0.0007076654195547061}
+lr 0.0007076654195547061 gamma 1.5537789977145697 alpha 0.27223413411468805 TrainAcc2: 67.9487% TrainAcc2num: 53.0000testAcc2: 76.4706% testAcc2num: 26.0000
+Model: resnet101_18ch Best para: 4.8024
+Training time: 492.38s
+Trial 443 结果: 4.80235294117647
+
+===== Trial 444 开始 =====
+参数: {'alpha': 0.26849382460966587, 'gamma': 1.630449399231731, 'lr': 0.0008050772363533902}
+lr 0.0008050772363533902 gamma 1.630449399231731 alpha 0.26849382460966587 TrainAcc2: 83.4559% TrainAcc2num: 227.0000testAcc2: 69.5652% testAcc2num: 48.0000
+Model: resnet101_18ch Best para: 5.5513
+Training time: 494.92s
+Trial 444 结果: 5.551304347826088
+
+===== Trial 445 开始 =====
+参数: {'alpha': 0.2624819643262643, 'gamma': 2.381976553537855, 'lr': 0.0007472003149616097}
+lr 0.0007472003149616097 gamma 2.381976553537855 alpha 0.2624819643262643 TrainAcc2: 73.2558% TrainAcc2num: 63.0000testAcc2: 65.5172% testAcc2num: 57.0000
+Model: resnet101_18ch Best para: 4.2848
+Training time: 492.76s
+Trial 445 结果: 4.284827586206897
+
+===== Trial 446 开始 =====
+参数: {'alpha': 0.26542094017534806, 'gamma': 1.6056341260356317, 'lr': 0.0005908753058414899}
+lr 0.0005908753058414899 gamma 1.6056341260356317 alpha 0.26542094017534806 TrainAcc2: 63.8889% TrainAcc2num: 23.0000testAcc2: 71.4286% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 4.0286
+Training time: 492.78s
+Trial 446 结果: 4.02857142857143
+
+===== Trial 447 开始 =====
+参数: {'alpha': 0.2791662492432252, 'gamma': 1.6456290115534784, 'lr': 0.000843326809856928}
+lr 0.000843326809856928 gamma 1.6456290115534784 alpha 0.2791662492432252 TrainAcc2: 77.2727% TrainAcc2num: 68.0000testAcc2: 68.9655% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 4.3862
+Training time: 493.64s
+Trial 447 结果: 4.386206896551728
+
+===== Trial 448 开始 =====
+参数: {'alpha': 0.2706796728998189, 'gamma': 2.340834314222351, 'lr': 0.0006458143753330727}
+lr 0.0006458143753330727 gamma 2.340834314222351 alpha 0.2706796728998189 TrainAcc2: 84.1880% TrainAcc2num: 197.0000testAcc2: 69.6429% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 4.5407
+Training time: 493.62s
+Trial 448 结果: 4.540714285714286
+
+===== Trial 449 开始 =====
+参数: {'alpha': 0.2760605501152712, 'gamma': 1.5677202769555945, 'lr': 0.0007108376544655214}
+Model: resnet101_18ch Best para: 3.8718
+Training time: 492.45s
+Trial 449 结果: 3.8718367346938787
+
+===== Trial 450 开始 =====
+参数: {'alpha': 0.2730206670123554, 'gamma': 2.4003661757473287, 'lr': 0.0007774318683426805}
+lr 0.0007774318683426805 gamma 2.4003661757473287 alpha 0.2730206670123554 TrainAcc2: 72.4409% TrainAcc2num: 92.0000testAcc2: 76.9231% testAcc2num: 30.0000
+Model: resnet101_18ch Best para: 5.6769
+Training time: 492.78s
+Trial 450 结果: 5.67692307692308
+
+===== Trial 451 开始 =====
+参数: {'alpha': 0.26006353941229043, 'gamma': 1.5338638531169302, 'lr': 0.0006758524149955117}
+lr 0.0006758524149955117 gamma 1.5338638531169302 alpha 0.26006353941229043 TrainAcc2: 75.9259% TrainAcc2num: 82.0000testAcc2: 74.4681% testAcc2num: 35.0000
+Model: resnet101_18ch Best para: 5.7638
+Training time: 493.71s
+Trial 451 结果: 5.763829787234043
+
+===== Trial 452 开始 =====
+参数: {'alpha': 0.2674231355804167, 'gamma': 2.488188512475949, 'lr': 0.0006357118249308497}
+lr 0.0006357118249308497 gamma 2.488188512475949 alpha 0.2674231355804167 TrainAcc2: 73.3945% TrainAcc2num: 80.0000testAcc2: 69.2308% testAcc2num: 45.0000
+Model: resnet101_18ch Best para: 5.0538
+Training time: 493.55s
+Trial 452 结果: 5.0538461538461545
+
+===== Trial 453 开始 =====
+参数: {'alpha': 0.2697776099777423, 'gamma': 2.322370545737025, 'lr': 0.0007367314798574943}
+lr 0.0007367314798574943 gamma 2.322370545737025 alpha 0.2697776099777423 TrainAcc2: 73.6842% TrainAcc2num: 28.0000testAcc2: 74.5098% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 6.2737
+Training time: 492.35s
+Trial 453 结果: 6.273725490196081
+
+===== Trial 454 开始 =====
+参数: {'alpha': 0.27321991278591523, 'gamma': 2.317326703738862, 'lr': 0.00019734195665456857}
+Model: resnet101_18ch Best para: 3.6000
+Training time: 496.96s
+Trial 454 结果: 3.600000000000003
+
+===== Trial 455 开始 =====
+参数: {'alpha': 0.27015855509491565, 'gamma': 2.3346304497367654, 'lr': 0.0007894212413544538}
+lr 0.0007894212413544538 gamma 2.3346304497367654 alpha 0.27015855509491565 TrainAcc2: 57.4468% TrainAcc2num: 27.0000testAcc2: 72.3404% testAcc2num: 34.0000
+Model: resnet101_18ch Best para: 4.8757
+Training time: 492.02s
+Trial 455 结果: 4.875744680851067
+
+===== Trial 456 开始 =====
+参数: {'alpha': 0.3200149980809822, 'gamma': 2.3604343703333024, 'lr': 0.0005360060748310697}
+lr 0.0005360060748310697 gamma 2.3604343703333024 alpha 0.3200149980809822 TrainAcc2: 71.9388% TrainAcc2num: 141.0000testAcc2: 69.8113% testAcc2num: 37.0000
+Model: resnet101_18ch Best para: 4.3702
+Training time: 490.63s
+Trial 456 结果: 4.370188679245283
+
+===== Trial 457 开始 =====
+参数: {'alpha': 0.2761706021123157, 'gamma': 2.3462631233833373, 'lr': 0.000169739253487121}
+lr 0.000169739253487121 gamma 2.3462631233833373 alpha 0.2761706021123157 TrainAcc2: 83.9416% TrainAcc2num: 230.0000testAcc2: 64.9573% testAcc2num: 76.0000
+Model: resnet101_18ch Best para: 5.2875
+Training time: 494.71s
+Trial 457 结果: 5.287521367521372
+
+===== Trial 458 开始 =====
+参数: {'alpha': 0.27143322400249636, 'gamma': 2.3114855785219226, 'lr': 0.0009250589241871261}
+Model: resnet101_18ch Best para: 3.7267
+Training time: 491.33s
+Trial 458 结果: 3.7266666666666675
+
+===== Trial 459 开始 =====
+参数: {'alpha': 0.2745838717985531, 'gamma': 2.250083813465788, 'lr': 0.0007357096900538872}
+Model: resnet101_18ch Best para: 2.7720
+Training time: 492.95s
+Trial 459 结果: 2.7720000000000025
+
+===== Trial 460 开始 =====
+参数: {'alpha': 0.27981657770515284, 'gamma': 2.361670470549385, 'lr': 0.0006057573858734036}
+Model: resnet101_18ch Best para: 3.5486
+Training time: 494.36s
+Trial 460 结果: 3.5485714285714303
+
+===== Trial 461 开始 =====
+参数: {'alpha': 0.29957134662682755, 'gamma': 2.433894978229689, 'lr': 0.0008494170619559858}
+Model: resnet101_18ch Best para: 3.9867
+Training time: 491.88s
+Trial 461 结果: 3.986666666666667
+
+===== Trial 462 开始 =====
+参数: {'alpha': 0.2692457363625674, 'gamma': 2.2962492234702023, 'lr': 0.0006853604384954767}
+lr 0.0006853604384954767 gamma 2.2962492234702023 alpha 0.2692457363625674 TrainAcc2: 65.4321% TrainAcc2num: 53.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 492.94s
+Trial 462 结果: 4.205
+
+===== Trial 463 开始 =====
+参数: {'alpha': 0.27704489270813376, 'gamma': 2.3700562794646545, 'lr': 0.0007555221569277449}
+Model: resnet101_18ch Best para: 2.9506
+Training time: 494.27s
+Trial 463 结果: 2.950588235294121
+
+===== Trial 464 开始 =====
+参数: {'alpha': 0.27415025570937573, 'gamma': 2.3220779340751956, 'lr': 0.00013418444225493097}
+lr 0.00013418444225493097 gamma 2.3220779340751956 alpha 0.27415025570937573 TrainAcc2: 88.6525% TrainAcc2num: 250.0000testAcc2: 67.1429% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 4.2971
+Training time: 495.25s
+Trial 464 结果: 4.297142857142856
+
+===== Trial 465 开始 =====
+参数: {'alpha': 0.2711991273926109, 'gamma': 2.2216509056973313, 'lr': 0.00023900949311939077}
+lr 0.00023900949311939077 gamma 2.2216509056973313 alpha 0.2711991273926109 TrainAcc2: 71.7647% TrainAcc2num: 122.0000testAcc2: 68.9655% testAcc2num: 40.0000
+Model: resnet101_18ch Best para: 4.3862
+Training time: 493.62s
+Trial 465 结果: 4.386206896551728
+
+===== Trial 466 开始 =====
+参数: {'alpha': 0.26842576467656876, 'gamma': 1.8225222505635297, 'lr': 0.0006231898877604134}
+lr 0.0006231898877604134 gamma 1.8225222505635297 alpha 0.26842576467656876 TrainAcc2: 70.3297% TrainAcc2num: 64.0000testAcc2: 68.8525% testAcc2num: 42.0000
+Model: resnet101_18ch Best para: 4.5580
+Training time: 494.00s
+Trial 466 结果: 4.5580327868852475
+
+===== Trial 467 开始 =====
+参数: {'alpha': 0.27865804162943103, 'gamma': 2.3816082886697276, 'lr': 0.00010620847370664055}
+lr 0.00010620847370664055 gamma 2.3816082886697276 alpha 0.27865804162943103 TrainAcc2: 73.7705% TrainAcc2num: 45.0000testAcc2: 71.1111% testAcc2num: 32.0000
+Model: resnet101_18ch Best para: 4.1956
+Training time: 493.45s
+Trial 467 结果: 4.195555555555558
+
+===== Trial 468 开始 =====
+参数: {'alpha': 0.2721168173101788, 'gamma': 2.4018977285895438, 'lr': 0.0008029277104992707}
+lr 0.0008029277104992707 gamma 2.4018977285895438 alpha 0.2721168173101788 TrainAcc2: 74.2857% TrainAcc2num: 26.0000testAcc2: 71.7391% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 4.5339
+Training time: 494.57s
+Trial 468 结果: 4.533913043478261
+
+===== Trial 469 开始 =====
+参数: {'alpha': 0.26662477857216105, 'gamma': 2.0906261297437423, 'lr': 0.0005631675418913813}
+Model: resnet101_18ch Best para: 3.1903
+Training time: 492.56s
+Trial 469 结果: 3.1902702702702723
+
+===== Trial 470 开始 =====
+参数: {'alpha': 0.2633278860682611, 'gamma': 2.327161350692542, 'lr': 0.0006632679069502657}
+lr 0.0006632679069502657 gamma 2.327161350692542 alpha 0.2633278860682611 TrainAcc2: 71.4286% TrainAcc2num: 55.0000testAcc2: 65.8228% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 4.0678
+Training time: 492.18s
+Trial 470 结果: 4.067848101265822
+
+===== Trial 471 开始 =====
+参数: {'alpha': 0.3122741165991297, 'gamma': 2.28353137199868, 'lr': 0.0007262709726726961}
+lr 0.0007262709726726961 gamma 2.28353137199868 alpha 0.3122741165991297 TrainAcc2: 72.5000% TrainAcc2num: 87.0000testAcc2: 69.2308% testAcc2num: 36.0000
+Model: resnet101_18ch Best para: 4.0431
+Training time: 494.89s
+Trial 471 结果: 4.043076923076924
+
+===== Trial 472 开始 =====
+参数: {'alpha': 0.275473525833176, 'gamma': 1.630564770266237, 'lr': 0.0005230427958097106}
+lr 0.0005230427958097106 gamma 1.630564770266237 alpha 0.275473525833176 TrainAcc2: 80.9524% TrainAcc2num: 136.0000testAcc2: 65.9574% testAcc2num: 62.0000
+Model: resnet101_18ch Best para: 4.9336
+Training time: 495.80s
+Trial 472 结果: 4.9336170212765955
+
+===== Trial 473 开始 =====
+参数: {'alpha': 0.269185820263451, 'gamma': 2.2392052652457846, 'lr': 0.0005775121080702579}
+lr 0.0005775121080702579 gamma 2.2392052652457846 alpha 0.269185820263451 TrainAcc2: 71.8121% TrainAcc2num: 107.0000testAcc2: 72.0930% testAcc2num: 31.0000
+Model: resnet101_18ch Best para: 4.3688
+Training time: 495.79s
+Trial 473 结果: 4.368837209302325
+
+===== Trial 474 开始 =====
+参数: {'alpha': 0.2817733567722586, 'gamma': 2.3495141907780592, 'lr': 0.0007634831570402391}
+lr 0.0007634831570402391 gamma 2.3495141907780592 alpha 0.2817733567722586 TrainAcc2: 80.0971% TrainAcc2num: 165.0000testAcc2: 71.7391% testAcc2num: 33.0000
+Model: resnet101_18ch Best para: 4.5339
+Training time: 494.30s
+Trial 474 结果: 4.533913043478261
+
+===== Trial 475 开始 =====
+参数: {'alpha': 0.27354695302328375, 'gamma': 2.264166567247324, 'lr': 0.0006897962782198044}
+lr 0.0006897962782198044 gamma 2.264166567247324 alpha 0.27354695302328375 TrainAcc2: 71.4286% TrainAcc2num: 55.0000testAcc2: 67.1053% testAcc2num: 51.0000
+Model: resnet101_18ch Best para: 4.6437
+Training time: 494.01s
+Trial 475 结果: 4.643684210526317
+
+===== Trial 476 开始 =====
+参数: {'alpha': 0.27748735675017244, 'gamma': 2.0553453817450125, 'lr': 0.0006344501298932237}
+lr 0.0006344501298932237 gamma 2.0553453817450125 alpha 0.27748735675017244 TrainAcc2: 74.5283% TrainAcc2num: 79.0000testAcc2: 69.0909% testAcc2num: 38.0000
+Model: resnet101_18ch Best para: 4.2145
+Training time: 494.15s
+Trial 476 结果: 4.214545454545457
+
+===== Trial 477 开始 =====
+参数: {'alpha': 0.2650104351480299, 'gamma': 1.6632895130281242, 'lr': 0.00021494307619885784}
+Model: resnet101_18ch Best para: 3.1200
+Training time: 492.76s
+Trial 477 结果: 3.12
+
+===== Trial 478 开始 =====
+参数: {'alpha': 0.2710193913239607, 'gamma': 2.195740680196273, 'lr': 0.0008262063801570696}
+lr 0.0008262063801570696 gamma 2.195740680196273 alpha 0.2710193913239607 TrainAcc2: 63.2653% TrainAcc2num: 31.0000testAcc2: 69.3333% testAcc2num: 52.0000
+Model: resnet101_18ch Best para: 5.8933
+Training time: 492.09s
+Trial 478 结果: 5.893333333333336
+
+===== Trial 479 开始 =====
+参数: {'alpha': 0.35345349076897253, 'gamma': 2.3096197505133604, 'lr': 0.0005087136453672185}
+Model: resnet101_18ch Best para: 3.2643
+Training time: 492.89s
+Trial 479 结果: 3.264262295081972
+
+===== Trial 480 开始 =====
+参数: {'alpha': 0.2678117848642952, 'gamma': 2.417290081628818, 'lr': 0.0006640775755182658}
+Model: resnet101_18ch Best para: 3.8626
+Training time: 493.51s
+Trial 480 结果: 3.8625641025641038
+
+===== Trial 481 开始 =====
+参数: {'alpha': 0.2625758376615155, 'gamma': 2.4562457188058717, 'lr': 0.0007036749206455709}
+Model: resnet101_18ch Best para: 2.7052
+Training time: 493.45s
+Trial 481 结果: 2.705217391304348
+
+===== Trial 482 开始 =====
+参数: {'alpha': 0.2737197038253254, 'gamma': 2.3870926526904124, 'lr': 0.0008817604613951212}
+lr 0.0008817604613951212 gamma 2.3870926526904124 alpha 0.2737197038253254 TrainAcc2: 85.8268% TrainAcc2num: 218.0000testAcc2: 67.1642% testAcc2num: 45.0000
+Model: resnet101_18ch Best para: 4.1239
+Training time: 494.06s
+Trial 482 结果: 4.12388059701493
+
+===== Trial 483 开始 =====
+参数: {'alpha': 0.2696063490061382, 'gamma': 1.611048801412969, 'lr': 0.0007399467616002749}
+lr 0.0007399467616002749 gamma 1.611048801412969 alpha 0.2696063490061382 TrainAcc2: 75.9615% TrainAcc2num: 79.0000testAcc2: 68.4211% testAcc2num: 39.0000
+Model: resnet101_18ch Best para: 4.0642
+Training time: 493.30s
+Trial 483 结果: 4.064210526315792
+
+===== Trial 484 开始 =====
+参数: {'alpha': 0.266504952739535, 'gamma': 1.7622125791496581, 'lr': 0.0001548215723023648}
+lr 0.0001548215723023648 gamma 1.7622125791496581 alpha 0.266504952739535 TrainAcc2: 70.6422% TrainAcc2num: 77.0000testAcc2: 68.7500% testAcc2num: 44.0000
+Model: resnet101_18ch Best para: 4.7300
+Training time: 495.41s
+Trial 484 结果: 4.730000000000002
+
+===== Trial 485 开始 =====
+参数: {'alpha': 0.3463821680746162, 'gamma': 2.336975178720436, 'lr': 0.0006020890746986836}
+lr 0.0006020890746986836 gamma 2.336975178720436 alpha 0.3463821680746162 TrainAcc2: 61.9048% TrainAcc2num: 52.0000testAcc2: 71.6667% testAcc2num: 43.0000
+Model: resnet101_18ch Best para: 5.8767
+Training time: 492.34s
+Trial 485 结果: 5.876666666666669
+
+===== Trial 486 开始 =====
+参数: {'alpha': 0.27578873820487987, 'gamma': 2.288511335877162, 'lr': 0.0007816084922022993}
+lr 0.0007816084922022993 gamma 2.288511335877162 alpha 0.27578873820487987 TrainAcc2: 73.6842% TrainAcc2num: 28.0000testAcc2: 78.5714% testAcc2num: 22.0000
+Model: resnet101_18ch Best para: 4.5257
+Training time: 491.30s
+Trial 486 结果: 4.525714285714287
+
+===== Trial 487 开始 =====
+参数: {'alpha': 0.332825381180302, 'gamma': 1.916961927688134, 'lr': 0.0003101330887708744}
+lr 0.0003101330887708744 gamma 1.916961927688134 alpha 0.332825381180302 TrainAcc2: 76.1194% TrainAcc2num: 204.0000testAcc2: 65.4867% testAcc2num: 74.0000
+Model: resnet101_18ch Best para: 5.5402
+Training time: 495.77s
+Trial 487 结果: 5.540176991150447
+
+===== Trial 488 开始 =====
+参数: {'alpha': 0.27190106794155877, 'gamma': 2.2132090075806317, 'lr': 0.000541405755321519}
+Model: resnet101_18ch Best para: 3.7216
+Training time: 495.03s
+Trial 488 结果: 3.7216438356164385
+
+===== Trial 489 开始 =====
+参数: {'alpha': 0.3251860172953768, 'gamma': 2.3756928067930163, 'lr': 0.0001209489373212691}
+Model: resnet101_18ch Best para: 3.0513
+Training time: 493.99s
+Trial 489 结果: 3.051282051282056
+
+===== Trial 490 开始 =====
+参数: {'alpha': 0.28018899251963436, 'gamma': 1.7082661240630739, 'lr': 0.0006422411414569882}
+lr 0.0006422411414569882 gamma 1.7082661240630739 alpha 0.28018899251963436 TrainAcc2: 68.0000% TrainAcc2num: 17.0000testAcc2: 69.4915% testAcc2num: 41.0000
+Model: resnet101_18ch Best para: 4.7115
+Training time: 492.05s
+Trial 490 结果: 4.711525423728816
+
+===== Trial 491 开始 =====
+参数: {'alpha': 0.26433525966005245, 'gamma': 1.6405689013896032, 'lr': 0.0007164004563428663}
+lr 0.0007164004563428663 gamma 1.6405689013896032 alpha 0.26433525966005245 TrainAcc2: 74.6032% TrainAcc2num: 47.0000testAcc2: 72.5000% testAcc2num: 29.0000
+Model: resnet101_18ch Best para: 4.2050
+Training time: 492.70s
+Trial 491 结果: 4.205
+
+===== Trial 492 开始 =====
+参数: {'alpha': 0.2695754243899245, 'gamma': 2.3507398273981277, 'lr': 0.000492118233938517}
+Model: resnet101_18ch Best para: 3.7196
+Training time: 494.38s
+Trial 492 结果: 3.7196078431372563
+
+===== Trial 493 开始 =====
+参数: {'alpha': 0.2778637243216171, 'gamma': 2.312474862222392, 'lr': 0.0006825397584047267}
+Model: resnet101_18ch Best para: 3.5728
+Training time: 492.45s
+Trial 493 结果: 3.5728301886792453
+
+===== Trial 494 开始 =====
+参数: {'alpha': 0.2733892910217673, 'gamma': 1.5764070669376804, 'lr': 0.0007669325375923411}
+Model: resnet101_18ch Best para: 3.3733
+Training time: 493.10s
+Trial 494 结果: 3.373333333333333
+
+===== Trial 495 开始 =====
+参数: {'alpha': 0.2619088578861472, 'gamma': 1.6190804921845694, 'lr': 0.0006139507257494425}
+lr 0.0006139507257494425 gamma 1.6190804921845694 alpha 0.2619088578861472 TrainAcc2: 73.6264% TrainAcc2num: 67.0000testAcc2: 69.0141% testAcc2num: 49.0000
+Model: resnet101_18ch Best para: 5.3969
+Training time: 494.35s
+Trial 495 结果: 5.396901408450705
+
+===== Trial 496 开始 =====
+参数: {'alpha': 0.26707884453583614, 'gamma': 2.259191218441367, 'lr': 0.0008122790617745705}
+lr 0.0008122790617745705 gamma 2.259191218441367 alpha 0.26707884453583614 TrainAcc2: 86.8966% TrainAcc2num: 126.0000testAcc2: 71.2121% testAcc2num: 47.0000
+Model: resnet101_18ch Best para: 6.2097
+Training time: 493.03s
+Trial 496 结果: 6.2096969696969735
+
+===== Trial 497 开始 =====
+参数: {'alpha': 0.31592885162671586, 'gamma': 2.408572709047524, 'lr': 0.0006630582621297088}
+Model: resnet101_18ch Best para: 3.3943
+Training time: 494.47s
+Trial 497 结果: 3.394285714285719
+
+===== Trial 498 开始 =====
+参数: {'alpha': 0.2757166616909678, 'gamma': 2.225498603188094, 'lr': 0.0007485280967985416}
+Model: resnet101_18ch Best para: 2.7300
+Training time: 494.39s
+Trial 498 结果: 2.730000000000002
+
+===== Trial 499 开始 =====
+参数: {'alpha': 0.27133293981880996, 'gamma': 2.439567878020481, 'lr': 0.0007018128658074285}
+lr 0.0007018128658074285 gamma 2.439567878020481 alpha 0.27133293981880996 TrainAcc2: 74.7475% TrainAcc2num: 74.0000testAcc2: 72.1311% testAcc2num: 44.0000
+Model: resnet101_18ch Best para: 6.2177
+Training time: 494.84s
+Trial 499 结果: 6.21770491803279
+
+=== 所有 trial 完成 ===
+最优参数: {'alpha': 0.26846267625788606, 'gamma': 1.6253380046784613, 'lr': 0.0006654097587837184}
+最优目标值: 8.574545454545458
